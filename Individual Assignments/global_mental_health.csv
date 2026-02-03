@@ -1,0 +1,613 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1991,15331732.74,18106291.34,12699678.24
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1991,0.002897953,0.003417567,0.002395884
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1991,282.9186003,334.1179168,234.348932
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,14994751.28,17710589.65,12417124.56
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002877209,0.003392401,0.002380305
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,281.0059763,331.9015729,232.700506
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1990,149004697,175823727.8,122981461.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1990,0.028591424,0.033803176,0.023628045
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1990,2792.391121,3294.987516,2304.708161
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1990,21171254.43,25548935.06,17982624.44
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1990,0.004062453,0.004899207,0.00344934
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1990,396.7554319,478.7944331,336.9995835
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1990,181663764.3,222123251.6,152708916.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1990,0.03485781,0.042593041,0.029291746
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1990,3404.43149,4162.653986,2861.809275
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1990,10577631.7,14367024.91,8156105.442
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1990,0.00202971,0.002750799,0.001564413
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1990,198.2278777,269.2422025,152.8477752
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1990,70120789.43,87950499.19,55585414.32
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1990,0.01345461,0.016882032,0.010681481
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1990,1314.083877,1648.217795,1041.686743
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1992,15664925.98,18497873.31,12981096.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1992,0.002918506,0.003443288,0.002411567
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1992,284.8140944,336.3217317,236.0176589
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1991,151795848.3,179211125.6,125786057.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1991,0.028692121,0.033955678,0.023774501
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1991,2801.109938,3307.007869,2321.147638
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1991,21551332.19,26001017.58,18307708.08
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1991,0.004073646,0.004910427,0.003459362
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1991,397.6897356,479.8004001,337.834688
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1991,184635522.6,227081039.6,157342274.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1991,0.034899135,0.042891511,0.029760851
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1991,3407.105023,4190.358063,2903.458913
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1991,10797990.02,14652693.28,8325932.841
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1991,0.00204106,0.00276374,0.001575359
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1991,199.2568143,270.3881907,153.6395987
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1994,16318208.87,19277864.16,13536872.27
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1994,0.002957692,0.003497056,0.002445765
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1994,288.4409722,340.7558957,239.2780133
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1993,15995061.55,18887136.12,13260659.91
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1993,0.002938326,0.003469283,0.002428646
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1993,286.6449686,338.4733797,237.6421893
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1996,16944491.2,20061630.1,14079051.06
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1996,0.002993762,0.003548484,0.002479388
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1996,291.7934835,345.4723345,242.449024
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1992,154210358.9,181660678,128088739.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1992,0.028730797,0.033835619,0.023857639
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1992,2803.797717,3302.889624,2328.86375
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1992,21935361.02,26455125.1,18635856.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1992,0.004086821,0.004923598,0.003471007
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1992,398.8209067,480.9976443,338.830491
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1992,187636881.9,231992649.7,160767435.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1992,0.034958225,0.043192106,0.02993111
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1992,3411.54683,4218.007572,2923.01615
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1992,11008672.74,14925908.93,8484083.457
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1992,0.002051064,0.002775052,0.001581984
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1992,200.1557595,271.3775501,154.2545779
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,16633322.09,19678888.88,13807274.93
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1995,0.002976235,0.00352462,0.002462329
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,290.1703594,343.3006484,240.8696174
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1998,17564114.8,20822990.38,14622598.47
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1998,0.003027219,0.003593901,0.002512262
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1998,294.8403451,349.5455214,245.4625255
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1997,17253004.46,20441096.48,14349559.93
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1997,0.00301046,0.003571265,0.002495819
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1997,293.3142952,347.5143024,243.9535137
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1991,71636818.13,89826099.1,56800043.91
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1991,0.013540319,0.016982737,0.010749853
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1991,1321.924186,1657.573522,1048.139124
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1994,160065914.8,186060688.5,134585134.1
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1994,0.029012175,0.033696993,0.024423487
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1994,2829.328172,3288.81229,2378.929405
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1994,22716842.72,27378869.3,19300911.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1994,0.004117522,0.00495536,0.003497499
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1994,401.5433466,483.9494176,341.163281
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1994,194042827.8,242263836.4,164890903.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1994,0.035170364,0.043891295,0.029846659
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1994,3429.904737,4282.260208,2914.614762
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1994,11404411.87,15439198.25,8785073.682
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1994,0.002067112,0.002792781,0.001593028
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1994,201.5846024,272.9035636,155.2851305
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1999,17881133.55,21209036.68,14901111.08
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1999,0.00304438,0.003616439,0.002529048
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1999,296.4223314,351.5902436,247.0213689
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2000,18209091.56,21607672.82,15189714.85
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2000,0.00306223,0.003639692,0.002546511
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2000,298.1028769,353.7413939,248.6723558
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2001,18550752.04,22028810.37,15484670.25
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2001,0.003081193,0.00366521,0.002564357
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2001,299.8902129,356.1162706,250.3241404
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1992,73149434.64,91691435.82,58012899.44
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1992,0.013628126,0.017085171,0.010814927
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1992,1329.976918,1667.100967,1054.769836
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1993,155701482.3,182102423.9,130099608.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1993,0.028602774,0.033502697,0.023878883
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1993,2790.301642,3263.428741,2331.494512
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1993,22326217.39,26917853.34,18968943.64
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1993,0.004101449,0.004938691,0.003483733
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1993,400.1046112,482.390593,339.9394392
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1993,190790079.2,236531876.3,163082703.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1993,0.035048438,0.043431968,0.029917813
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1993,3419.118839,4238.850351,2922.579341
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1993,11211937.2,15189321.9,8637843.443
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1993,0.00205971,0.002784629,0.001587821
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1993,200.9273536,272.2054358,154.7974264
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2002,18903108.75,22460438.58,15787109.14
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2002,0.003101068,0.003691398,0.002582815
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2002,301.7362826,358.5192961,251.9978956
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2003,19265554.74,22902834.71,16098421.94
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2003,0.003121322,0.003717768,0.002600926
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2003,303.6102024,360.930914,253.6986455
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1994,76169297.95,95402740.14,60434994.43
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1994,0.013805559,0.017291001,0.010945607
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1994,1346.369968,1686.34066,1068.250118
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1993,74668105.94,93561227.83,59233076.96
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1993,0.013716474,0.017188046,0.010879992
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1993,1338.115319,1676.695969,1061.506605
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1998,82244717.92,102822503.7,65189891.82
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1998,0.014174955,0.017717678,0.01122215
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1998,1380.602511,1726.031902,1094.311351
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1995,77661556.61,97231133.55,61612185.76
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1995,0.01389595,0.017395485,0.011012347
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1995,1354.815452,1696.20914,1074.832194
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2004,19638455.9,23353531.94,16417457.07
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2004,0.003141945,0.003743825,0.002619156
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2004,305.5289722,363.3269666,255.417677
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1996,165759500,190032896.9,141850861.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1996,0.02928653,0.0335438,0.025099692
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1996,2854.470007,3272.471289,2442.750072
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1996,23511110.13,28308697.66,19970724.77
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1996,0.004154018,0.004993529,0.003527545
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1996,404.8742829,487.4913861,343.9068945
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1996,200804248.1,251605515,168939505.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1996,0.035478086,0.044429792,0.02987408
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1996,3457.959896,4332.785731,2909.231451
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1996,11774899.25,15920204.72,9076495.118
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1996,0.002080444,0.002807622,0.001603656
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1996,202.770259,274.1547053,156.3022517
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2019,25558224.05,30294380.71,21399802.88
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2019,0.003400375,0.004037707,0.002845134
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2019,328.9721275,389.9334654,275.4470995
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2019,260109342.9,304026098.9,227896280.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2019,0.034606203,0.040450714,0.030401946
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2019,3347.991776,3913.26535,2933.362041
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2019,33936903.77,40286000.22,28904945.12
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2019,0.004515144,0.005342829,0.003848512
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2019,436.8181222,518.5403797,372.0493753
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2019,306112533,372193652.1,253646601.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2019,0.040727098,0.049437406,0.033743556
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2019,3940.120841,4790.682535,3264.806739
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2019,17267061.16,22917233.81,13232346.05
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2019,0.0022973,0.003049194,0.001759791
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2019,222.2526038,294.9786788,170.3198558
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1997,80690941.21,100929500.1,63979728.19
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1997,0.014079536,0.0176075,0.011145902
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1997,1371.807827,1715.878834,1087.704401
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1995,162011612.2,186906149.8,137022988.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1995,0.028989125,0.033442021,0.024552531
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1995,2826.312596,3260.60088,2390.382967
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1995,23109256.44,27839692.43,19633979.04
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1995,0.004135054,0.004973462,0.003512404
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1995,403.1438345,485.6668748,342.5171907
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1995,197369310.2,247492336.1,166771768.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1995,0.035315603,0.044265178,0.02984487
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1995,3443.132006,4317.534387,2909.354111
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1995,11587593.71,15675908,8926648.467
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1995,0.00207344,0.002799424,0.001597685
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1995,202.1470042,273.4681523,155.7264856
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2007,20797625.07,24732542.55,17420774.36
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2007,0.003200468,0.003810877,0.002673055
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2007,310.9967872,369.8374813,260.5011312
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2005,20019293.42,23812039.99,16743047.11
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2005,0.003161826,0.003768668,0.002636746
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2005,307.4025373,365.6413519,257.0947463
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1996,79165720.76,99068969.57,62791279.31
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1996,0.01398687,0.017500547,0.011078712
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1996,1363.277372,1706.022293,1081.300459
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1999,83825338.49,104747732.5,66422776.74
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,1999,0.014271706,0.017829691,0.011303112
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,1999,1389.604423,1736.442882,1101.115558
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1998,172630109.4,196699977.3,149546387.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1998,0.029753305,0.033905171,0.025744843
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1998,2897.858594,3301.907885,2510.363266
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1998,24334803.83,29262685.71,20661656.76
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1998,0.004194217,0.005036136,0.003559756
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1998,408.4966443,491.2186266,346.8372916
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1998,207831113.3,256500054.8,176738899.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1998,0.035820087,0.044172033,0.030419176
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1998,3488.760911,4305.743017,2966.830873
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1998,12184425.31,16475243.49,9397575.687
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1998,0.002100067,0.002834989,0.00162132
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1998,204.5340856,276.5619861,157.7525818
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,25910847.2,30708023.84,21686126.54
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2020,0.003409274,0.004048254,0.002854429
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,330.0821747,391.1941286,276.2628236
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2001,87097667.98,108733079.7,68961086.34
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2001,0.014466437,0.018055605,0.011460425
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2001,1408.015058,1757.771671,1114.820296
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2014,23648496.81,28075384.53,19854110.97
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2014,0.003332084,0.003957469,0.002790101
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2014,323.0030974,383.4677627,271.1774618
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,24427230.17,28965067.92,20485387.84
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2016,0.00336067,0.00399179,0.002814549
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2016,325.510422,385.9803758,272.982536
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1997,169066249.2,192834781.8,145538984.1
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1997,0.029500265,0.03362991,0.025357297
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1997,2874.255777,3278.339042,2474.274243
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1997,23918752.47,28781493.75,20312745.66
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1997,0.004173618,0.0050143,0.003543248
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1997,406.6371188,489.3074465,345.3322401
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1997,204272316.7,254127749.8,173236395.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1997,0.035643153,0.044322903,0.03019574
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1997,3472.7859,4320.366462,2945.151463
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1997,11974768.23,16188182.31,9239580.662
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1997,0.002089515,0.002819805,0.001611834
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1997,203.5802352,275.2115029,157.0799507
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2006,20404108.6,24268162.14,17078900.97
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2006,0.003181192,0.003789583,0.002655083
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2006,309.2229822,367.7824705,258.8296698
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2008,21198845.18,25204729.06,17768687.11
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2008,0.003220035,0.003834148,0.002691144
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2008,312.7781495,371.8829232,262.1679165
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2015,24044594.48,28525875.76,20177196.24
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2015,0.003347081,0.003975703,0.002803217
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2015,324.3366772,384.7845207,272.1694804
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2000,85440914.8,106715169,67676744.85
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2000,0.014368551,0.017941695,0.011383485
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2000,1398.761845,1747.04481,1107.942825
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2023,26854925.74,31724687.64,22525557.24
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2023,0.003435342,0.004059801,0.002882215
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2023,332.9469487,393.3221805,279.2715059
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2017,24808340.44,29413879.98,20792859.19
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2017,0.00337406,0.004007381,0.002825615
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2017,326.6397778,387.2787559,273.7698203
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2018,25187013.33,29859025.23,21098898.54
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2018,0.003387721,0.004023218,0.002835685
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2018,327.8206055,388.6289972,274.6119044
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,26215723.22,31032186.78,21956052.76
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2021,0.003416159,0.004052498,0.002862471
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2021,330.8911622,391.6838861,277.1262022
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2002,88799654.58,110803210.4,70282043.79
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2002,0.014567573,0.018173044,0.011540463
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2002,1417.44292,1768.669336,1121.860055
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1999,176688901.1,201739074.9,153841673.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,1999,0.030082536,0.034316752,0.02618483
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,1999,2929.038914,3344.305145,2550.291762
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1999,24758573.41,29752818.95,21017944.29
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1999,0.004215357,0.005058754,0.003576874
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1999,410.43226,493.2237621,348.4224327
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1999,211488107.6,257377168.1,178596220.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1999,0.036007111,0.043783662,0.030368724
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1999,3505.918557,4266.638913,2960.657272
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1999,12397546.21,16747697.43,9556274.842
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,1999,0.002110815,0.002850745,0.001628826
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,1999,205.5188247,277.6329311,158.4179918
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2009,21612893.79,25689765.01,18125359.82
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2009,0.003239516,0.003856957,0.002708827
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2009,314.556796,373.8920964,263.7987844
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2022,26518918.43,31351125.06,22226398.09
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2022,0.003421779,0.004054008,0.002868517
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2022,331.7011981,392.1429062,278.0099382
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2005,94161202.97,117341317.8,74571239.97
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2005,0.014871657,0.018526869,0.011782076
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2005,1445.874842,1801.812784,1145.064808
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,23241527.44,27612035.46,19515743.69
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2013,0.003314528,0.00393755,0.002774883
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2013,321.4409771,381.8871062,269.9116802
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2011,22424029.75,26650954.21,18820361.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2011,0.003276649,0.003900386,0.002742002
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2011,318.0203657,377.9671316,266.9127007
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2000,180125628.4,206232109.2,157354704.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2000,0.030291915,0.034712805,0.026498393
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2000,2948.854854,3376.246687,2576.069762
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2000,25192845.8,30255573.06,21382668.77
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2000,0.004236734,0.005081786,0.003594145
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2000,412.4346229,495.3170422,350.0578299
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2000,215144729.1,258133319.2,180593949.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2000,0.036180855,0.04338712,0.030335722
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2000,3522.156088,4225.926638,2956.52178
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2000,12608256,17010050.42,9713233.459
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2000,0.002120388,0.002859882,0.001635381
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2000,206.4110323,278.4732534,159.0163259
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2012,22829569.51,27134001.15,19165318.97
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2012,0.003295692,0.003918936,0.002758537
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2012,319.7564988,380.0454144,268.4341152
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2010,22022719.12,26173509.7,18479392.32
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2010,0.003257967,0.003879047,0.002725778
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2010,316.2723997,375.8826817,265.386019
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2001,183614553.4,210592858.1,160153251.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2001,0.030497618,0.034947731,0.026620022
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2001,2968.300552,3404.430016,2589.026716
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2001,25630023.93,30756788.47,21760519.52
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2001,0.004257062,0.00510286,0.003612457
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2001,414.3332475,497.2121791,351.7790988
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2001,218580119.4,258676132.5,182333502.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2001,0.036305018,0.042939754,0.030289748
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2001,3533.551548,4181.741004,2947.591173
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2001,12825229.32,17289151.82,9882747.383
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2001,0.00213026,0.002870304,0.001643534
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2001,207.3317969,279.4952684,159.7638312
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2002,188313238.7,216167908.1,163562104.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2002,0.030893005,0.035484192,0.026849628
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2002,3005.904339,3450.527735,2610.820373
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2002,26061874.84,31250472.92,22135071.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2002,0.004275496,0.005121896,0.00362936
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2002,416.0063478,498.8280845,353.3257046
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2002,222006524.9,259715020.3,185536607.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2002,0.036420214,0.042581051,0.030414022
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2002,3543.725238,4145.637937,2961.583043
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2002,13050626.2,17586331.83,10059408.48
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2002,0.002141012,0.002883236,0.001652465
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2002,208.3174513,280.7175509,160.5708649
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2003,90540181.86,112921005.4,71639199.03
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2003,0.01466886,0.018290732,0.011620701
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2003,1426.843053,1779.547475,1128.978221
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2020,306780334.7,358201797,268632699.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2020,0.040365473,0.047250615,0.035390811
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2020,3908.120768,4563.1865,3422.152309
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2020,34379791.65,40792194.66,29294597.28
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2020,0.004523633,0.005350242,0.003856846
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2020,437.9693303,519.6578956,373.1882754
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2020,375319075.6,467333737,300033746.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2020,0.049383779,0.061362572,0.039470432
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2020,4781.246084,5953.434677,3822.174967
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2020,17447339.68,23142001.25,13364912.66
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2020,0.00229569,0.003045609,0.001758011
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2020,222.2642811,294.8094302,170.25763
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2003,192051330.6,220361318.3,167032749.1
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2003,0.031115369,0.035719314,0.027076906
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2003,3026.580036,3472.723487,2632.306592
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2003,26497470.35,31748878.53,22513311.73
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2003,0.004293025,0.005140158,0.003645536
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2003,417.579584,500.3377045,354.792334
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2003,225219091.6,260459813.6,189440562.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2003,0.036488932,0.042175942,0.030664418
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2003,3549.278227,4104.644676,2985.43635
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2003,13281002.25,17899798.93,10240339.69
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2003,0.002151776,0.00289775,0.001661454
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2003,209.2982962,282.0869499,161.3798122
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2017,251513022.8,291993342.6,218809554.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.034207237,0.03963666,0.029770901
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2017,3311.553954,3844.539331,2880.962733
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2017,33034182.6,39282130.28,28111688.84
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2017,0.004492852,0.005328007,0.003826862
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2017,434.9455816,517.2093771,370.1334161
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2017,290459096,346428103.7,242312858.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2017,0.039504489,0.046994812,0.032918717
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2017,3824.338625,4561.256287,3190.419706
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2017,16875098.06,22420131.9,12943402.91
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2017,0.002295113,0.003048645,0.001759578
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2017,222.1864979,295.1953565,170.4197127
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2021,124784785.9,155518332,98984572.71
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2021,0.016260591,0.020292811,0.012911529
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2021,1575.015974,1962.930459,1249.36932
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2020,123050780.6,153286243,97600954.89
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2020,0.016190585,0.020194338,0.012855598
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2020,1567.562379,1952.736476,1243.353226
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2004,92315679.22,115083595.2,73078910.76
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2004,0.014769464,0.018407963,0.011700435
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2004,1436.218547,1790.434682,1136.938902
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2015,113540222.2,141104149.7,90027403.71
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2015,0.015805211,0.019660667,0.012541631
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2015,1531.540007,1903.348842,1214.376437
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2007,97920299.97,121939142,77575828.35
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2007,0.015068558,0.0187547,0.011942727
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2007,1464.248855,1823.414032,1160.028287
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2010,103830510.2,129142597.4,82303594.65
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2010,0.015360366,0.01909141,0.012181295
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2010,1491.12943,1854.641063,1181.977359
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2006,96017628.75,119612961,76054215.03
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2006,0.014970004,0.018639485,0.011862271
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2006,1455.141123,1812.726898,1152.596844
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2004,196488061.8,226549992.4,170479107.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2004,0.031435974,0.036254349,0.027287925
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2004,3056.899987,3524.594128,2652.260787
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2004,26944755.95,32266580.22,22902019.82
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2004,0.004310886,0.005158985,0.003662031
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2004,419.1981097,501.9933919,356.3024819
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2004,228219866.7,262402130,193829732.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2004,0.036512692,0.041928653,0.030980818
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2004,3550.57351,4082.370503,3015.542534
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2004,13514812.07,18226581.2,10424571.81
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2004,0.002162269,0.002913266,0.001670304
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2004,210.2592313,283.563466,162.1822372
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2007,209683755.6,241617073.5,183032347.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2007,0.032267311,0.037197708,0.028119975
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2007,3135.501006,3613.015108,2736.969813
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2007,28381072.53,33951920.7,24136856.98
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2007,0.004367459,0.005221468,0.003712432
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2007,424.3956868,507.6992311,360.9299115
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2007,237636892.7,276647526.1,205015746.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2007,0.03656912,0.042516145,0.031575265
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2007,3553.49757,4136.84214,3065.69804
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2007,14310181.78,19250105.04,11062524.85
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2007,0.002202173,0.002959627,0.001700969
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2007,213.9869597,287.8559835,165.4231997
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2009,101838507,126721199.9,80709138.64
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2009,0.01526439,0.018981815,0.01210251
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2009,1482.17054,1844.316407,1174.651035
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2019,121191541.2,150885828.9,96119742.79
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2019,0.016123763,0.020102057,0.012799923
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2019,1559.914298,1942.12368,1237.203188
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2008,99853246.21,124298507.9,79122414.95
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2008,0.01516737,0.018869562,0.012023455
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2008,1473.283724,1833.961093,1167.410881
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2016,115449021.8,143524309.7,91542197.44
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2016,0.015883376,0.019769859,0.012604088
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2016,1538.441303,1912.564719,1219.865663
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2014,111581221.2,138616063.8,88470580.97
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2014,0.015721902,0.019548521,0.012474768
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2014,1524.0326,1893.288116,1208.375818
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2017,117368570.7,145960169.9,93071997.49
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2017,0.015962715,0.019879835,0.012668546
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2017,1545.336898,1921.789068,1225.435319
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2023,128382646.8,160189831.5,101870032.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2023,0.016422876,0.020525375,0.013041946
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2023,1591.686044,1986.031022,1262.983064
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2013,109635627.2,136159107.5,86925060.06
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2013,0.01563544,0.019433524,0.012405424
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2013,1516.310976,1883.142864,1202.213422
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2023,322246572.6,376845263,280089800
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2023,0.041222522,0.048340965,0.035869127
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2023,3995.20796,4672.121668,3472.548954
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2023,35721602.59,42351448.12,30484600.51
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2023,0.00456959,0.005403784,0.003903995
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2023,442.8758693,525.0725903,377.9475996
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2023,469795345.8,596695864.4,361150107.1
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2023,0.06009709,0.076261415,0.046189142
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2023,5824.515338,7397.82598,4477.53337
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2023,18091321.18,24008446.3,13890332.83
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2023,0.002314287,0.003073796,0.001777299
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2023,224.2959166,297.6563412,172.2121288
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2018,119270479.3,148412525.9,94586232.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2018,0.01604216,0.019989993,0.012733046
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2018,1552.360347,1931.657536,1231.083484
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2011,105763455.8,131484416.8,83842747.22
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2011,0.015454429,0.019197477,0.012258955
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2011,1499.950422,1864.728275,1189.06822
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2022,126574667.3,157818844.7,100430671.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2022,0.016332069,0.020395312,0.012968872
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2022,1583.208187,1974.013382,1256.196555
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2012,107692314.4,133814825.3,85379659.17
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,2,Percent,2012,0.01554658,0.019315323,0.012333761
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,585,Other mental disorders,3,Rate,2012,1508.364728,1874.242964,1195.848256
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2016,247259355.9,286819105.8,213964791.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.034017859,0.039326668,0.029456951
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2016,3294.908867,3822.071005,2851.234835
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2016,32586089.29,38770632.63,27733053.89
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2016,0.004483194,0.005323818,0.003816525
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2016,434.2330916,516.6465825,369.5629023
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2016,282802022.6,334597514.6,236945478.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2016,0.038908135,0.046014876,0.032596543
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2016,3768.54048,4458.752688,3157.469028
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2016,16673881.03,22178667.87,12795408.47
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2016,0.002293986,0.00304939,0.001759511
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2016,222.1914647,295.546711,170.5080266
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2015,242240896.7,281399356.7,209595382.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.033720873,0.039035956,0.029169283
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2015,3267.578815,3795.785885,2827.224635
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2015,32138815.51,38258969.26,27355074.39
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2015,0.004473859,0.005320129,0.003808147
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2015,433.519336,516.0738716,368.9916227
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2015,275439510.9,320876114.2,229620098.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2015,0.038342533,0.044643052,0.031966914
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2015,3715.393738,4328.286459,3097.337321
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2015,16473033.69,21942872.85,12648109.28
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2015,0.002293108,0.003052277,0.001759723
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2015,222.2041639,295.9866291,170.609895
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2014,238176512.6,274922793.4,206667618.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.033559302,0.038608689,0.029108666
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2014,3253.134942,3755.03418,2822.770577
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2014,31682564.76,37741887.33,26965029.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2014,0.00446412,0.005315854,0.003799324
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2014,432.7364497,515.4977336,368.3019764
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2014,267922663.1,307982171.2,222438846
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2014,0.03775087,0.043472904,0.031350483
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2014,3659.422869,4206.575836,3038.181953
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2014,16254813.71,21662800.44,12485727.21
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2014,0.002290324,0.003051867,0.001758235
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2014,222.0164443,295.8814548,170.5363598
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2006,204599728.3,236359423.9,177564514.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2006,0.031898897,0.036865313,0.027722841
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2006,3100.69601,3582.012199,2690.979042
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2006,27893986.53,33376668.48,23721038.35
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2006,0.004348937,0.005200404,0.003696326
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2006,422.7316109,505.8213111,359.4908438
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2006,234411154.1,271916550.4,203107162.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2006,0.036546917,0.042340689,0.031631615
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2006,3552.486293,4120.878215,3078.076276
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2006,14009403.01,18878950.59,10821337.33
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2006,0.002184234,0.002940729,0.001689097
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2006,212.3116212,286.1093085,163.9966865
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2018,255618539.7,297558410.3,222925512.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2018,0.034381555,0.039965512,0.030015449
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2018,3326.993295,3872.860072,2901.478458
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2018,33484222.03,39788339.66,28504591.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2018,0.004503753,0.005334921,0.003837584
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2018,435.812607,517.8636081,371.0004143
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2018,298048411,358239669.5,248266411.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2018,0.040088905,0.048132592,0.033364362
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2018,3879.237658,4662.654673,3231.301957
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2018,17074753.12,22673102.15,13090606.56
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2018,0.002296616,0.003049397,0.001759986
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2018,222.2357941,295.1008911,170.3802874
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2005,200429462.5,232250145.8,172881203
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2005,0.031655501,0.036659982,0.027287773
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2005,3077.657339,3566.273925,2654.645164
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2005,27414395.37,32811981.73,23311303.11
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2005,0.004329802,0.005178807,0.003679623
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2005,420.95665,503.8382837,357.95238
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2005,231297100.8,266915390.1,198435968.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2005,0.036530776,0.042107624,0.031306102
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2005,3551.63962,4098.569637,3047.04661
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2005,13749448.79,18558487.51,10610611.46
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2005,0.002171613,0.002927823,0.001678419
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2005,211.127104,284.9714038,162.9292711
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2008,212973833.5,244061551.8,184504226.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2008,0.032349895,0.03711523,0.028066939
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2008,3142.3203,3601.003729,2722.265767
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2008,28869995.52,34527656.35,24554423.84
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2008,0.004385261,0.005241401,0.003727949
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2008,425.9620606,509.4379609,362.2880014
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2008,240725064.1,280403399.3,205590627.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2008,0.036565463,0.042664621,0.031245827
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2008,3551.775555,4137.209155,3033.384861
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2008,14628206.79,19641545.19,11292595.98
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2008,0.002222006,0.002980787,0.001713981
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2008,215.831731,289.8009823,166.6164947
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2021,312789024.2,364428620.2,273324695.2
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2021,0.040759622,0.047608587,0.035663502
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2021,3947.978962,4599.766661,3449.865766
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2021,34794151.5,41271915.67,29664194.16
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2021,0.004534052,0.00536178,0.003868088
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2021,439.1668744,520.9283004,374.4172762
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2021,386878491.7,486174936,305720211.3
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2021,0.050414232,0.063243536,0.039821356
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2021,4883.125773,6136.431494,3858.757402
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2021,17631532.84,23385714.41,13544837.54
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2021,0.002297575,0.003048355,0.001764772
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2021,222.5427215,295.17119,170.9610297
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2022,313933408.2,366087560.4,273450899.9
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2022,0.040507454,0.04736994,0.035331118
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2022,3926.70945,4579.058632,3420.350318
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2022,35226007.62,41767485.11,30047828.06
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2022,0.004545287,0.005375182,0.00388089
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2022,440.6103122,522.4317458,375.8411412
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2022,406445622.8,516052359.6,317368508.5
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2022,0.05244456,0.066527179,0.040951835
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2022,5083.861182,6454.832854,3969.676017
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2022,17822125.52,23654579.27,13730161.07
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2022,0.002299625,0.003053493,0.001771795
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2022,222.9208707,295.8737667,171.7381834
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2013,233624503.8,267909247.5,203367450.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.033317779,0.038109558,0.029022372
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2013,3231.133969,3705.307688,2812.665054
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2013,31228619.3,37233582.18,26576853.17
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2013,0.004453612,0.005307733,0.003789841
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2013,431.9061184,514.9575073,367.5700608
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2013,261437058.8,300397686.4,216557628.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2013,0.037284499,0.042909652,0.030902233
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2013,3615.794351,4154.637689,2995.091259
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2013,16009507.33,21342150.75,12301756.38
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2013,0.002283168,0.003044685,0.001753321
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2013,221.4188243,295.1717269,170.1389291
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2011,226259808.3,257488135.8,197138002.1
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2011,0.033061513,0.037607381,0.028805541
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2011,3208.844609,3651.728615,2795.835549
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2011,30315525.23,36204723.19,25792677.65
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2011,0.004429785,0.0052875,0.003767881
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2011,429.9385314,513.459866,365.7949472
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2011,251325163.6,287652213.6,211504569
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2011,0.036724422,0.042194859,0.03092766
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2011,3564.324581,4079.519301,2999.583979
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2011,15484509.91,20668833.16,11908906.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2011,0.00226265,0.00302165,0.001739033
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2011,219.6032363,293.1279504,168.8935847
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2009,218131766,249125289.4,189175402.4
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2009,0.032695227,0.037354004,0.028403679
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2009,3174.717373,3625.801042,2753.282787
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2009,29368310.12,35115339.05,24979372.98
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2009,0.004401965,0.005260167,0.003742476
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2009,427.4301082,511.0730957,363.5529608
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2009,244019894.7,280037205.4,209598653.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2009,0.036575824,0.041973029,0.031385466
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2009,3551.49648,4075.696985,3050.525377
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2009,14947495.97,20029676.87,11521695.77
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2009,0.002240477,0.003000261,0.001725723
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2009,217.547751,291.5144561,167.6882208
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2010,222079013,252728862.6,193274212.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2010,0.032853496,0.037387983,0.028583489
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2010,3189.318357,3629.486595,2775.64722
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2010,29851438.41,35677819.4,25392986.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2010,0.004416127,0.005274866,0.003755147
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2010,428.7021058,512.3758559,364.6734459
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2010,247217776.4,282402656.7,210312386.8
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2010,0.036572726,0.041929673,0.031125665
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2010,3550.340853,4055.637518,3020.335631
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2010,15226761.68,20356284.68,11721290.08
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2010,0.002252617,0.003011726,0.001732775
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2010,218.6743804,292.3404222,168.3316452
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2012,230054448.1,262483813.9,200364653.6
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,2,Percent,2012,0.033210797,0.037803591,0.028964939
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,567,Depressive disorders,3,Rate,2012,3222.19851,3676.412089,2806.356032
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2012,30772292.63,36720372.85,26185346.52
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2012,0.004442329,0.005298481,0.003779487
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2012,431.004209,514.3144662,366.7583272
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2012,256093454.9,293861720.7,213082166.7
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2012,0.036970111,0.042526825,0.030784179
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2012,3586.907167,4115.898677,2984.480612
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2012,15748076.04,21004883.33,12105318.18
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,2,Percent,2012,0.00227342,0.003033684,0.00174644
+1,All Population,5,Prevalence,1,Global,3,Both,22,All ages,572,Eating disorders,3,Rate,2012,220.5713803,294.1995006,169.5500283
