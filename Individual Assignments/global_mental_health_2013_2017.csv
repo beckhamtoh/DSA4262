@@ -1,0 +1,1021 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,165,Pakistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0344764509169387,0.0402873644250528,0.0289984433210034
+1,All Population,5,Prevalence,298,American Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0259829028060167,0.0351013421067719,0.019061955913987
+1,All Population,5,Prevalence,63,Ukraine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0512758008388753,0.0621752225396499,0.0430873026970608
+1,All Population,5,Prevalence,178,Eritrea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0279188159598656,0.0325499666733664,0.0236237563576151
+1,All Population,5,Prevalence,52,Romania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0231264494714748,0.0265124159348769,0.0197221192813908
+1,All Population,5,Prevalence,34,Azerbaijan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0323140208980681,0.039843104591726,0.026187609448113
+1,All Population,5,Prevalence,71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0417586512957225,0.0465580275694877,0.0374488236004261
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.020954598361707,0.0249826283260502,0.0175664669980901
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0318330773697192,0.0387614925760534,0.0256124093073093
+1,All Population,5,Prevalence,146,Lebanon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0467855497329553,0.0525277276169814,0.0408499459737999
+1,All Population,5,Prevalence,173,Gabon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0374244924065347,0.0486202772969225,0.0284586698065548
+1,All Population,5,Prevalence,435,South Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0269541414599401,0.0316680205433875,0.022749428477673
+1,All Population,5,Prevalence,157,Yemen,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0313005691368729,0.0353150198812235,0.0274300318120952
+1,All Population,5,Prevalence,320,Cook Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0277273280886481,0.0371674003864413,0.0206209684784604
+1,All Population,5,Prevalence,24,Marshall Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0215522701848837,0.0290768076803672,0.0155808135638717
+1,All Population,5,Prevalence,175,Burundi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.026107510804277,0.0306291240517227,0.02195930162995
+1,All Population,5,Prevalence,118,Suriname,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0313720265813307,0.037492431590832,0.0259994697108655
+1,All Population,5,Prevalence,149,Palestine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0340136912964667,0.0384411503613733,0.029840590553018
+1,All Population,5,Prevalence,351,Guam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0296300206549234,0.0399470280336152,0.0219600974436945
+1,All Population,5,Prevalence,13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0334444702012246,0.037765039346157,0.0291899994492516
+1,All Population,5,Prevalence,39,Tajikistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0269118054618318,0.0335586059641918,0.0214818096580458
+1,All Population,5,Prevalence,107,Barbados,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0350803745674824,0.0416412358815111,0.0294050608721308
+1,All Population,5,Prevalence,99,Uruguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.03253039569929,0.0412279507177058,0.0254269710387797
+1,All Population,5,Prevalence,177,Djibouti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0283457493579265,0.0327308172023898,0.0240691798716471
+1,All Population,5,Prevalence,86,Italy,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.026161058046211,0.0292298267502908,0.0234622764122545
+1,All Population,5,Prevalence,126,Costa Rica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0297975726955614,0.0362740717420157,0.0245879010377401
+1,All Population,5,Prevalence,18,Thailand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0228870841070159,0.0278194254385445,0.0187604956380201
+1,All Population,5,Prevalence,54,Slovakia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0271453552667791,0.0322672220847332,0.0222806929848332
+1,All Population,5,Prevalence,213,Niger,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0210863837583038,0.0241530300494274,0.0179644551675305
+1,All Population,5,Prevalence,154,Tunisia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0480939101382522,0.0569129144479978,0.040326439506097
+1,All Population,5,Prevalence,180,Kenya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0277242427084998,0.033029439414038,0.0230540353367904
+1,All Population,5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0207830312330648,0.0281149657646325,0.0150299751510318
+1,All Population,5,Prevalence,128,Guatemala,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0292456905600207,0.0351500319296775,0.0237327515675221
+1,All Population,5,Prevalence,139,Algeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0403388510993179,0.0458383533303617,0.0353532780033286
+1,All Population,5,Prevalence,8,Taiwan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.027328710295109,0.032210747712008,0.0227662928388588
+1,All Population,5,Prevalence,115,Jamaica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0319816082175858,0.0383608015266056,0.0266404603115839
+1,All Population,5,Prevalence,23,Kiribati,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0261280728601592,0.0355209897389456,0.0188394940804
+1,All Population,5,Prevalence,67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.029193654828019,0.0352818117065194,0.0245501411089921
+1,All Population,5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0391087845324931,0.0466053733222789,0.0322832404205687
+1,All Population,5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0305868044420374,0.0359014726388266,0.0259195420881317
+1,All Population,5,Prevalence,218,Togo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0311993801050081,0.0400408849268893,0.0238217219527109
+1,All Population,5,Prevalence,91,Portugal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.040955955567561,0.0454926876957537,0.0370242399291902
+1,All Population,5,Prevalence,60,Lithuania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.041001629650077,0.0522885308032627,0.0327455731485026
+1,All Population,5,Prevalence,110,Dominica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0323300657089372,0.0385792129348663,0.0267379542202786
+1,All Population,5,Prevalence,20,Viet Nam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0228686867802727,0.0273059079657462,0.0187218416737574
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0330914468605683,0.0445290044847083,0.0244694369150145
+1,All Population,5,Prevalence,151,Qatar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0327796824062911,0.0378331960043807,0.0284001309054989
+1,All Population,5,Prevalence,205,Côte d'Ivoire,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.025009112259048,0.0300457591388601,0.0204070343352405
+1,All Population,5,Prevalence,78,Denmark,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0342332105729765,0.0384491361415279,0.0306556768948337
+1,All Population,5,Prevalence,15,Myanmar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0238663008228806,0.0277743476534223,0.0201333085840758
+1,All Population,5,Prevalence,79,Finland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0317807556878022,0.0355327172439796,0.0286416172033777
+1,All Population,5,Prevalence,68,Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0267609950597273,0.0290712233314804,0.0245586303593628
+1,All Population,5,Prevalence,161,Bangladesh,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0402103458531612,0.0499773771899434,0.0317519518045394
+1,All Population,5,Prevalence,170,Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0433852919798973,0.0538865892474122,0.0341198383418042
+1,All Population,5,Prevalence,125,Colombia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0209837884819777,0.024756277585846,0.0174496253019774
+1,All Population,5,Prevalence,75,Austria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0269438639590355,0.0307205185147285,0.0237926744218903
+1,All Population,5,Prevalence,215,Sao Tome and Principe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0231634353375666,0.026729673419955,0.0198256460314796
+1,All Population,5,Prevalence,169,Central African Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0374659751390294,0.0485778626313016,0.0278716625153525
+1,All Population,5,Prevalence,69,Singapore,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0177141020852958,0.0207657364562963,0.0151557964428696
+1,All Population,5,Prevalence,207,Ghana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0347477505628952,0.0411861036316485,0.0285292446898946
+1,All Population,5,Prevalence,112,Grenada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0324939357960523,0.0389120515408768,0.0269636852768304
+1,All Population,5,Prevalence,182,Malawi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0248830323130938,0.0298180127866959,0.020497861556271
+1,All Population,5,Prevalence,102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0456306832508878,0.0508321011073522,0.0405906178813934
+1,All Population,5,Prevalence,197,Eswatini,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0289567902778255,0.0355206491486068,0.0232278148501654
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0372376657657094,0.0482720767992406,0.027718850117695
+1,All Population,5,Prevalence,28,Solomon Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0227578163594879,0.0307226222084513,0.0163927873103168
+1,All Population,5,Prevalence,22,Fiji,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.023093268329377,0.031231913374413,0.0169402368992887
+1,All Population,5,Prevalence,172,Equatorial Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0343983715126272,0.0442892204292361,0.0254469637887874
+1,All Population,5,Prevalence,88,Malta,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0252043135054969,0.0289477631226583,0.0219364330025095
+1,All Population,5,Prevalence,385,Puerto Rico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0405404638588231,0.0453135458427778,0.0362781613206651
+1,All Population,5,Prevalence,184,Mozambique,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0233424050018085,0.0272736719854439,0.0197165711496814
+1,All Population,5,Prevalence,162,Bhutan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0297561732258278,0.0355129547884333,0.0249504466394652
+1,All Population,5,Prevalence,10,Cambodia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0213718307871849,0.0248617010057229,0.0180632212806372
+1,All Population,5,Prevalence,36,Kazakhstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.027695278950496,0.0332911465236151,0.0226951662856742
+1,All Population,5,Prevalence,81,Germany,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0428951430689501,0.0466775310813453,0.0396195957513188
+1,All Population,5,Prevalence,202,Cameroon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0237726185729069,0.0272542487413694,0.0201949627609802
+1,All Population,5,Prevalence,186,Seychelles,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0256082403896289,0.0298147654394524,0.0215755749547807
+1,All Population,5,Prevalence,6,China,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0367468000360846,0.0405488576098587,0.0329771835911278
+1,All Population,5,Prevalence,130,Mexico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0274185665901819,0.031362531010931,0.0238424838507392
+1,All Population,5,Prevalence,77,Cyprus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.029053434860071,0.0337605350884124,0.0254760011811335
+1,All Population,5,Prevalence,148,Morocco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0386763373431243,0.0440075954726581,0.0339373349563733
+1,All Population,5,Prevalence,122,Ecuador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.028119104051781,0.0348422333058982,0.0226088431608364
+1,All Population,5,Prevalence,94,Switzerland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0476865567125957,0.0526770944173062,0.0432164253360992
+1,All Population,5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0595045910438496,0.0737371177576809,0.0457343466522223
+1,All Population,5,Prevalence,41,Uzbekistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0297661661930679,0.0368625820861155,0.0239471493475682
+1,All Population,5,Prevalence,374,Niue,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0278614066528213,0.0370949798275754,0.0207436519860796
+1,All Population,5,Prevalence,30,Vanuatu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0213422149457708,0.0286286177441504,0.0154641769217205
+1,All Population,5,Prevalence,47,Czechia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0342384596434724,0.0417689159017914,0.0281843971004364
+1,All Population,5,Prevalence,217,Sierra Leone,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0238827227975167,0.027419326571083,0.0203344410910369
+1,All Population,5,Prevalence,55,Slovenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0287756279910596,0.0330602680001754,0.0247902143034564
+1,All Population,5,Prevalence,93,Sweden,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0406232727188115,0.0444304217159736,0.0372831761636617
+1,All Population,5,Prevalence,114,Haiti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0328274672671507,0.0398092076307644,0.0269087824338864
+1,All Population,5,Prevalence,62,Russian Federation,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0400919363934091,0.0460563425816355,0.0348890986191895
+1,All Population,5,Prevalence,141,Egypt,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0365744233982778,0.0434719391914973,0.030188228560261
+1,All Population,5,Prevalence,101,Canada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0343559284497977,0.0383068647200066,0.030800223843737
+1,All Population,5,Prevalence,179,Ethiopia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0339015608716013,0.0389619266141334,0.0285905669545642
+1,All Population,5,Prevalence,11,Indonesia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0197572064359133,0.0248792206473405,0.0160772695196153
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0306381144831812,0.0370677231849048,0.0248169423640072
+1,All Population,5,Prevalence,135,Brazil,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0355066202440371,0.0399385301292423,0.0312276081190339
+1,All Population,5,Prevalence,416,Tuvalu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0244311434431936,0.0327331058448188,0.0180422300615168
+1,All Population,5,Prevalence,210,Liberia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0247521831206353,0.0283120726527802,0.0210586990325035
+1,All Population,5,Prevalence,155,Türkiye,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0454169953891153,0.0500572888296286,0.0410242117375405
+1,All Population,5,Prevalence,109,Cuba,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0351150042829131,0.0417259288729684,0.0294774275091619
+1,All Population,5,Prevalence,185,Rwanda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0270094062227926,0.0315019139998476,0.0227905966756579
+1,All Population,5,Prevalence,33,Armenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0350135555439694,0.0431228417872588,0.0283109011043439
+1,All Population,5,Prevalence,83,Iceland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0441528681830603,0.0489739766635373,0.0397494927170812
+1,All Population,5,Prevalence,106,Bahamas,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0325260769907696,0.0388095517126053,0.0270609580704032
+1,All Population,5,Prevalence,108,Belize,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0282722042309733,0.0340745268712572,0.0235375422451927
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0233757647124141,0.0314855719564179,0.017022300732025
+1,All Population,5,Prevalence,396,San Marino,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.037127669512172,0.0413930146230473,0.0335638421360353
+1,All Population,5,Prevalence,116,Saint Lucia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0334694057233414,0.0399125881116861,0.0278397184432527
+1,All Population,5,Prevalence,176,Comoros,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0300380204067602,0.0370336804992008,0.0242546336858061
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0199097483510911,0.0252729234377074,0.015866411100653
+1,All Population,5,Prevalence,85,Israel,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0429893759561149,0.0499050994215323,0.0369721660664505
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0317155015126697,0.0370159092909111,0.0271605288738803
+1,All Population,5,Prevalence,160,Afghanistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0307074456703351,0.0349203842966707,0.0266988178030953
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0318953705667742,0.0380475979378509,0.0264325713238717
+1,All Population,5,Prevalence,369,Nauru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0216237929125231,0.0292995990736409,0.0155641464912176
+1,All Population,5,Prevalence,17,Sri Lanka,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0255211627532884,0.0315873139760704,0.0206256589669419
+1,All Population,5,Prevalence,57,Belarus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0375559268621887,0.0438826562091853,0.0317288693365253
+1,All Population,5,Prevalence,80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0372111268124702,0.0411841759761312,0.0334408435862746
+1,All Population,5,Prevalence,46,Croatia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0260694367068809,0.0301903771279165,0.0222182622471712
+1,All Population,5,Prevalence,203,Cabo Verde,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0277702538486204,0.0320668891475289,0.0240087835197699
+1,All Population,5,Prevalence,189,United Republic of Tanzania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0273792675512465,0.032178790789354,0.0230118695614401
+1,All Population,5,Prevalence,90,Norway,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0315616958845535,0.0351518925516759,0.0285578725238835
+1,All Population,5,Prevalence,19,Timor-Leste,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0205153990572902,0.0259041109447829,0.0159612524934569
+1,All Population,5,Prevalence,201,Burkina Faso,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0255567975940271,0.0290354914073288,0.0219258480910864
+1,All Population,5,Prevalence,132,Panama,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0232056520011348,0.0278852075022278,0.0191950617570678
+1,All Population,5,Prevalence,305,Bermuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0364787012739123,0.0435341591007054,0.0307106626161879
+1,All Population,5,Prevalence,204,Chad,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0285985536605508,0.0337769483591902,0.023159741220213
+1,All Population,5,Prevalence,212,Mauritania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0228847902114586,0.0269594163287547,0.0189547916747538
+1,All Population,5,Prevalence,150,Oman,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0301167071228584,0.0361038459941089,0.024754005292976
+1,All Population,5,Prevalence,48,Hungary,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0331082387527236,0.0376133437734292,0.0287781177470355
+1,All Population,5,Prevalence,40,Turkmenistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0294303684034125,0.0365172877291384,0.0236973556610147
+1,All Population,5,Prevalence,127,El Salvador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0227736183861913,0.0275089272519233,0.0187884888875396
+1,All Population,5,Prevalence,140,Bahrain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0385483846573388,0.0443893477167106,0.0336168508362703
+1,All Population,5,Prevalence,58,Estonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0361288825231132,0.0414742866853082,0.0316122514841718
+1,All Population,5,Prevalence,43,Albania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0241135066671155,0.0277352367918813,0.0206838106853075
+1,All Population,5,Prevalence,59,Latvia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.034547617536662,0.0389840228162705,0.0306564898366844
+1,All Population,5,Prevalence,214,Nigeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0276274272726463,0.0327421814785667,0.0230281505301336
+1,All Population,5,Prevalence,181,Madagascar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.025965528178957,0.0304293949201345,0.0219145917437782
+1,All Population,5,Prevalence,72,New Zealand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0341553567966868,0.0378664852971607,0.0305924997101159
+1,All Population,5,Prevalence,147,Libya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0392551634031017,0.04480255798686,0.0344463639737864
+1,All Population,5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0335657741072114,0.0399379865954614,0.0278724646389635
+1,All Population,5,Prevalence,209,Guinea-Bissau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0223772657654445,0.0258381958375927,0.0190852550974246
+1,All Population,5,Prevalence,164,Nepal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0278762839167629,0.0315595024840731,0.0248060149257676
+1,All Population,5,Prevalence,95,United Kingdom,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0522619638962792,0.0565500751658851,0.0484767014575593
+1,All Population,5,Prevalence,61,Republic of Moldova,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0334199622236239,0.0392572970611593,0.0283307315069226
+1,All Population,5,Prevalence,143,Iraq,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0329795270122455,0.038536019897243,0.0277382074546666
+1,All Population,5,Prevalence,45,Bulgaria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0301715481442117,0.034616592872396,0.0259415774899638
+1,All Population,5,Prevalence,187,Somalia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0261827061938938,0.0307475079655272,0.0219416001133195
+1,All Population,5,Prevalence,92,Spain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0361698152234024,0.0401131803189393,0.0330095094939267
+1,All Population,5,Prevalence,49,North Macedonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.024916084079117,0.0287034784855493,0.0213580809148434
+1,All Population,5,Prevalence,129,Honduras,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0241593241376193,0.0290628863208028,0.0197609512505498
+1,All Population,5,Prevalence,38,Mongolia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0269806245491742,0.0329046288038778,0.0219046736706304
+1,All Population,5,Prevalence,66,Brunei Darussalam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0235536706567915,0.0278761481971919,0.0196215222702843
+1,All Population,5,Prevalence,191,Zambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0244043214662273,0.0291992643973861,0.0201987257816536
+1,All Population,5,Prevalence,216,Senegal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0246599484206133,0.0294102319314051,0.0201809987772311
+1,All Population,5,Prevalence,168,Angola,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0351067998119836,0.0454274123413429,0.0260813798269807
+1,All Population,5,Prevalence,145,Kuwait,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0400529620822153,0.0462372098506339,0.0350652562590538
+1,All Population,5,Prevalence,193,Botswana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0270093554016001,0.0320629361742998,0.0224062150041748
+1,All Population,5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0274578052535992,0.0374785501694369,0.0205192466002558
+1,All Population,5,Prevalence,14,Maldives,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.022779815376438,0.0264661055112195,0.0193954508562957
+1,All Population,5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0369259953515789,0.0439466664389173,0.0306120873939938
+1,All Population,5,Prevalence,82,Greece,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0477310784029886,0.0536188173176567,0.0422920363369341
+1,All Population,5,Prevalence,195,Namibia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0227962687329074,0.0270758984705778,0.0188504283054087
+1,All Population,5,Prevalence,380,Palau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0283530224965401,0.0384889341543053,0.0211329270388085
+1,All Population,5,Prevalence,206,Gambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0222896043884579,0.0257441078849348,0.0191021823258778
+1,All Population,5,Prevalence,111,Dominican Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0358739347688727,0.0437125963417341,0.0291320744816656
+1,All Population,5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0338879140127692,0.0404681304259979,0.0281955516662472
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0366658718075084,0.0425784642857847,0.0315342493628891
+1,All Population,5,Prevalence,194,Lesotho,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0246389102279591,0.0292756222527297,0.0205070149611323
+1,All Population,5,Prevalence,349,Greenland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0438671918105211,0.0535399208358381,0.0362253046141297
+1,All Population,5,Prevalence,51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0286992574694845,0.0321998651843131,0.025921467110388
+1,All Population,5,Prevalence,98,Chile,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0408509576952549,0.0544405591423171,0.0302456084673727
+1,All Population,5,Prevalence,27,Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0218704213643868,0.0292219409156517,0.0159846049642417
+1,All Population,5,Prevalence,211,Mali,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0216635351201911,0.0257945388493795,0.017685040227142
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0337525341139282,0.0402511159200558,0.0280424512106194
+1,All Population,5,Prevalence,35,Georgia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0424740493604791,0.0499083904097849,0.0355999836145756
+1,All Population,5,Prevalence,190,Uganda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0226008325926625,0.0262407852467364,0.0193531362767803
+1,All Population,5,Prevalence,183,Mauritius,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0418527176264114,0.0530701997735194,0.0330601001374419
+1,All Population,5,Prevalence,87,Luxembourg,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0418980618541748,0.0465324805348286,0.0379609552532208
+1,All Population,5,Prevalence,97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0327330467095175,0.041826128174476,0.0251309515251103
+1,All Population,5,Prevalence,50,Montenegro,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0250343021289255,0.0288260303651502,0.0214259266320928
+1,All Population,5,Prevalence,131,Nicaragua,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0219836224006494,0.0266222022462621,0.0180771150885294
+1,All Population,5,Prevalence,136,Paraguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0276982856541761,0.0333825140921345,0.0226828066243294
+1,All Population,5,Prevalence,208,Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0224703796811014,0.0257600089083445,0.0190892206032762
+1,All Population,5,Prevalence,113,Guyana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0301255337881138,0.0361568662744675,0.0250496083661764
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0236320783004268,0.0288530579749869,0.0193631589488163
+1,All Population,5,Prevalence,74,Andorra,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0349016745744734,0.0390767155314495,0.0316333671295251
+1,All Population,5,Prevalence,88,Malta,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0253221878304438,0.0292794533860416,0.0220218992530234
+1,All Population,5,Prevalence,29,Tonga,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0273636231359501,0.0417489178110281,0.0171513847401784
+1,All Population,5,Prevalence,84,Ireland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0348429983756561,0.0386790006246094,0.0316556988699684
+1,All Population,5,Prevalence,53,Serbia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0280853649806109,0.0329771995996422,0.0233745065394271
+1,All Population,5,Prevalence,62,Russian Federation,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0398439172070782,0.046000967996749,0.0347093695882385
+1,All Population,5,Prevalence,89,Netherlands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0552491884325964,0.0605983703478752,0.0504719899100655
+1,All Population,5,Prevalence,144,Jordan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0363439281330252,0.043398619961557,0.0300402771150349
+1,All Population,5,Prevalence,367,Monaco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0354039102723388,0.039456700450478,0.0319119107877503
+1,All Population,5,Prevalence,76,Belgium,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0359785267653344,0.041062329050033,0.0310344464453272
+1,All Population,5,Prevalence,123,Peru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0284013594020106,0.0312767928799153,0.0256009989937903
+1,All Population,5,Prevalence,413,Tokelau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0256660468886794,0.0341850506486419,0.0191314516307732
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0237794873276192,0.0321017910660522,0.0173613210600463
+1,All Population,5,Prevalence,37,Kyrgyzstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0287862173245104,0.0357362261614556,0.0230991130391774
+1,All Population,5,Prevalence,522,Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0376157839186103,0.0440360336826877,0.0312460595239452
+1,All Population,5,Prevalence,109,Cuba,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0352340274186929,0.0423236894305776,0.0297031688043374
+1,All Population,5,Prevalence,14,Maldives,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0232606699763014,0.0270516488960118,0.0195898672089887
+1,All Population,5,Prevalence,71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0435658419577153,0.0485576936127117,0.0389446763656978
+1,All Population,5,Prevalence,33,Armenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0354015390640719,0.0439211967197712,0.0286676314928916
+1,All Population,5,Prevalence,196,South Africa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0309707510632378,0.0360615219409925,0.0263305472956442
+1,All Population,5,Prevalence,101,Canada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0355823569067211,0.0396123171357644,0.0319848364195705
+1,All Population,5,Prevalence,77,Cyprus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0292077688555443,0.0338726359965697,0.0255736606554306
+1,All Population,5,Prevalence,135,Brazil,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0356951896808448,0.0402303226064815,0.0312968947509689
+1,All Population,5,Prevalence,85,Israel,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0430126888166881,0.050023324270352,0.0367607137819019
+1,All Population,5,Prevalence,27,Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0221013420791673,0.0295948217324184,0.0162811420944269
+1,All Population,5,Prevalence,30,Vanuatu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0215931980944604,0.0290583492795712,0.0157454196540116
+1,All Population,5,Prevalence,11,Indonesia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0200142302952822,0.0253678175629252,0.0162940918410781
+1,All Population,5,Prevalence,182,Malawi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0252952638979484,0.0303648624266992,0.0209042131642777
+1,All Population,5,Prevalence,102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0457002410735184,0.0511961077349824,0.0405481683349622
+1,All Population,5,Prevalence,61,Republic of Moldova,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0341460771109295,0.0401374182084429,0.0288243855980498
+1,All Population,5,Prevalence,72,New Zealand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0341845125512912,0.0378054455025657,0.0306568482205744
+1,All Population,5,Prevalence,41,Uzbekistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0300461905914629,0.0374440588061843,0.0242429705630249
+1,All Population,5,Prevalence,69,Singapore,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0177243869444811,0.0208601258310335,0.0151863910165072
+1,All Population,5,Prevalence,198,Zimbabwe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0261140205410484,0.0326250643939621,0.0205868364446955
+1,All Population,5,Prevalence,38,Mongolia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0270063576360596,0.0331370403637134,0.022038083842046
+1,All Population,5,Prevalence,191,Zambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0250149154391627,0.0299877057659356,0.0205837491964639
+1,All Population,5,Prevalence,6,China,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0370243325935131,0.0409917750734835,0.033250784391969
+1,All Population,5,Prevalence,126,Costa Rica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.029978011054825,0.0367693744372138,0.0248597436573765
+1,All Population,5,Prevalence,143,Iraq,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0333891408709327,0.0391410595319886,0.0281397919741162
+1,All Population,5,Prevalence,49,North Macedonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0256726272564833,0.0294880278187663,0.02222244543941
+1,All Population,5,Prevalence,79,Finland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0319102689506311,0.0358130504290659,0.0285861281601008
+1,All Population,5,Prevalence,58,Estonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0354410949808155,0.0407338084373724,0.0309957943482425
+1,All Population,5,Prevalence,132,Panama,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0233489671775734,0.0282093433540292,0.0193886663101972
+1,All Population,5,Prevalence,29,Tonga,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0275954390073245,0.0423437090613301,0.0172099929796564
+1,All Population,5,Prevalence,87,Luxembourg,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0421994570949543,0.0470964434275876,0.0381974729732211
+1,All Population,5,Prevalence,168,Angola,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0332524940641569,0.0433890642545041,0.0249404399852836
+1,All Population,5,Prevalence,162,Bhutan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0299222399513706,0.0357325899812199,0.0251725670380387
+1,All Population,5,Prevalence,106,Bahamas,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0326944344087995,0.0390417021302199,0.0271650356581613
+1,All Population,5,Prevalence,22,Fiji,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.023231886751502,0.0315174967447411,0.0171546149049306
+1,All Population,5,Prevalence,63,Ukraine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0532478637696486,0.0647706887073001,0.0446373479782026
+1,All Population,5,Prevalence,93,Sweden,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0407454708840309,0.0447563938460688,0.0373555888081054
+1,All Population,5,Prevalence,48,Hungary,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0326655953108556,0.0372049619836487,0.0284462361887022
+1,All Population,5,Prevalence,80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0371172121784126,0.0411622496335576,0.0333317344119525
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.032021951446871,0.0375232358929366,0.0274327395449656
+1,All Population,5,Prevalence,75,Austria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0260679892524582,0.0297779037253317,0.023014996750894
+1,All Population,5,Prevalence,202,Cameroon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0245122205166386,0.0281247032967968,0.0208162525717182
+1,All Population,5,Prevalence,217,Sierra Leone,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0241459577709959,0.0277901800781464,0.0205776989439939
+1,All Population,5,Prevalence,139,Algeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0404471240685339,0.0459502748314327,0.0352663369211368
+1,All Population,5,Prevalence,127,El Salvador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.023004038995431,0.0278681472312441,0.0189794889104362
+1,All Population,5,Prevalence,34,Azerbaijan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0326251904383475,0.0405813831154569,0.0265423726426558
+1,All Population,5,Prevalence,35,Georgia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0427704321679506,0.0504198917212477,0.0359357846391234
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0325231282281932,0.0399307300081665,0.0262857612526216
+1,All Population,5,Prevalence,94,Switzerland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.048227006532713,0.0535923823500093,0.0433444801111032
+1,All Population,5,Prevalence,108,Belize,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0285030924392825,0.0345043094938592,0.0236122269517722
+1,All Population,5,Prevalence,140,Bahrain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0398700769037335,0.0457602647519632,0.0345688552204952
+1,All Population,5,Prevalence,155,Türkiye,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0458023817675364,0.0508307771543872,0.0409402129938687
+1,All Population,5,Prevalence,17,Sri Lanka,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0256574124354718,0.0320020249211527,0.020789994846624
+1,All Population,5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0307687857956279,0.0362526473094347,0.0262527642287594
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0211596497815492,0.0252393513153487,0.0177503384690837
+1,All Population,5,Prevalence,298,American Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0247471972582369,0.0334619640773247,0.0181154027975636
+1,All Population,5,Prevalence,195,Namibia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0244259749844016,0.0290672931011507,0.0203232805107112
+1,All Population,5,Prevalence,179,Ethiopia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0341876724561355,0.0391570297077142,0.0288577747810226
+1,All Population,5,Prevalence,178,Eritrea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0280026561093784,0.0326989694030576,0.0235885400940789
+1,All Population,5,Prevalence,40,Turkmenistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.029600971028364,0.0370397419277547,0.0237588446898108
+1,All Population,5,Prevalence,98,Chile,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0408337235035898,0.0543974630653791,0.0301188992299944
+1,All Population,5,Prevalence,186,Seychelles,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.026094371861674,0.0304987865467219,0.0218809284899963
+1,All Population,5,Prevalence,164,Nepal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.027968238209542,0.0316081133193323,0.0249243651575828
+1,All Population,5,Prevalence,89,Netherlands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0564788151057606,0.0623356443427356,0.0515401906627962
+1,All Population,5,Prevalence,209,Guinea-Bissau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0244016495682996,0.0280758295504013,0.020723277189691
+1,All Population,5,Prevalence,90,Norway,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0313641084658401,0.035058325596083,0.028263877458014
+1,All Population,5,Prevalence,86,Italy,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0252498063117882,0.028261146554429,0.022693485305024
+1,All Population,5,Prevalence,116,Saint Lucia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0337195442944532,0.0403047884194315,0.0281143028934229
+1,All Population,5,Prevalence,24,Marshall Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0219829887651497,0.0297354140765157,0.0159285483348115
+1,All Population,5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0400541877002422,0.0477922398099045,0.0330076093739395
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0320641270617092,0.0384201030622155,0.0266874207896172
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0373072841494924,0.0484524007227756,0.0279403553553096
+1,All Population,5,Prevalence,200,Benin,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.0211613981570662,0.0243646583028595,0.0180817593278485
+1,All Population,5,Prevalence,60,Lithuania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0411207921256316,0.0526747920069406,0.033033190957733
+1,All Population,5,Prevalence,43,Albania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0254042048382905,0.0291587326169628,0.0219609186428684
+1,All Population,5,Prevalence,148,Morocco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0389826898969024,0.0443654316228674,0.0340517991669587
+1,All Population,5,Prevalence,380,Palau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0287849654148438,0.0392045003737052,0.0214846830981893
+1,All Population,5,Prevalence,196,South Africa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.031256496865293,0.0366616991358971,0.0266112296715254
+1,All Population,5,Prevalence,10,Cambodia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0218847087137361,0.0255807745233013,0.0183785490320981
+1,All Population,5,Prevalence,37,Kyrgyzstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0285468982887996,0.0356500992333423,0.0229416309876743
+1,All Population,5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0337692112704296,0.0402951047347885,0.0281780068769182
+1,All Population,5,Prevalence,349,Greenland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0440572010792698,0.0539502057802272,0.0365332998824104
+1,All Population,5,Prevalence,522,Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.038120852229489,0.0447175083690749,0.0315492966384039
+1,All Population,5,Prevalence,203,Cabo Verde,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0280368410650559,0.0325039186883951,0.024096513746407
+1,All Population,5,Prevalence,416,Tuvalu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0247122431196801,0.0331846629519865,0.0182053703256052
+1,All Population,5,Prevalence,187,Somalia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0262171574394836,0.0308242832773256,0.0219664481844381
+1,All Population,5,Prevalence,374,Niue,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0281680384885901,0.0375815466128622,0.0209900784726474
+1,All Population,5,Prevalence,305,Bermuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0366229252543938,0.0439087777528912,0.0309060317629533
+1,All Population,5,Prevalence,218,Togo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0292544498557374,0.0374887422530106,0.0225519915351809
+1,All Population,5,Prevalence,111,Dominican Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0345199850743499,0.0422828618009086,0.0283402339449399
+1,All Population,5,Prevalence,125,Colombia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0210963460375208,0.0250691875877661,0.0175860992216872
+1,All Population,5,Prevalence,66,Brunei Darussalam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0235949998512557,0.0281646763722678,0.0197701949983377
+1,All Population,5,Prevalence,6,China,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0370991837600244,0.0415098082165147,0.0332560112854114
+1,All Population,5,Prevalence,214,Nigeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0277884082137668,0.0329285678444565,0.0231647620250856
+1,All Population,5,Prevalence,55,Slovenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0288573977468653,0.0331559448731229,0.0249615986860267
+1,All Population,5,Prevalence,74,Andorra,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0353105660586238,0.0397114166380879,0.0320837102327942
+1,All Population,5,Prevalence,369,Nauru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0219128531937371,0.0298060892782405,0.0158237938453084
+1,All Population,5,Prevalence,147,Libya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0413418325368258,0.0471944062679559,0.0361627157224109
+1,All Population,5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0339624927213722,0.0408080932723018,0.0284925875386419
+1,All Population,5,Prevalence,210,Liberia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0249540111457757,0.0286509304945877,0.021252273203116
+1,All Population,5,Prevalence,91,Portugal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0413157250354934,0.0460883957198177,0.0373051632481377
+1,All Population,5,Prevalence,170,Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0441749045499507,0.0548405227599555,0.0347270132074279
+1,All Population,5,Prevalence,176,Comoros,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.032289100870727,0.0401383041441163,0.0259673307577049
+1,All Population,5,Prevalence,45,Bulgaria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0320896475689072,0.0366848485029109,0.0276621243172481
+1,All Population,5,Prevalence,184,Mozambique,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0232464275345205,0.0272233412055851,0.019568650415685
+1,All Population,5,Prevalence,13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0335011703531698,0.0382293424283794,0.0289401867682977
+1,All Population,5,Prevalence,66,Brunei Darussalam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0240289149507005,0.0289441118150979,0.0200418834596875
+1,All Population,5,Prevalence,193,Botswana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0271730972312624,0.0324872318793661,0.0226002840865989
+1,All Population,5,Prevalence,136,Paraguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0276757379669261,0.0336658093141465,0.0226510320325849
+1,All Population,5,Prevalence,51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0288214342547129,0.0325336669559548,0.0259685627965647
+1,All Population,5,Prevalence,39,Tajikistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0267186450491918,0.0335079102465669,0.0213439661338604
+1,All Population,5,Prevalence,180,Kenya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0277211678499336,0.0330790588868381,0.0231264849032426
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0334151605059555,0.0451231729901724,0.0250786553899861
+1,All Population,5,Prevalence,78,Denmark,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0344877172377115,0.0389402524567669,0.0308505018606407
+1,All Population,5,Prevalence,128,Guatemala,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0287337544459364,0.0347671487642368,0.0233252463256105
+1,All Population,5,Prevalence,320,Cook Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0281322446135447,0.0377966420546865,0.0208836423076725
+1,All Population,5,Prevalence,8,Taiwan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0277265138516226,0.032750517075931,0.0230732365702611
+1,All Population,5,Prevalence,204,Chad,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0287154208876765,0.0338930750259098,0.0231843534724051
+1,All Population,5,Prevalence,62,Russian Federation,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0397349435817752,0.046062655602389,0.0346381715030719
+1,All Population,5,Prevalence,197,Eswatini,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0291461398123277,0.0358498999730912,0.0234472462733129
+1,All Population,5,Prevalence,19,Timor-Leste,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0212973901361281,0.0268832021506672,0.0164804887631467
+1,All Population,5,Prevalence,36,Kazakhstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0277315229550688,0.0335323361984624,0.0228664582660774
+1,All Population,5,Prevalence,81,Germany,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0431303298634494,0.0469102714502544,0.0398826734264221
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0359161279550069,0.0418465306498187,0.0307594197729201
+1,All Population,5,Prevalence,118,Suriname,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0315104703782532,0.0377250444265541,0.02611849075831
+1,All Population,5,Prevalence,145,Kuwait,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0403544767434327,0.0465614124064721,0.0349839985898564
+1,All Population,5,Prevalence,47,Czechia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0344623774295819,0.0421866979250411,0.0284668316006213
+1,All Population,5,Prevalence,211,Mali,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0216864054936878,0.0259207484811445,0.0178768348563819
+1,All Population,5,Prevalence,11,Indonesia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0205514797977613,0.026076089502042,0.0167527633774849
+1,All Population,5,Prevalence,92,Spain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0357893864088076,0.0398471445333722,0.0327358384919503
+1,All Population,5,Prevalence,165,Pakistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0346752319462919,0.0404838136504734,0.0292229950881025
+1,All Population,5,Prevalence,181,Madagascar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0263702225457434,0.0309673616873198,0.0221110994391961
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0237351727744678,0.0291164011014473,0.0195409732025385
+1,All Population,5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0278210548452048,0.0381608973674326,0.02078292484579
+1,All Population,5,Prevalence,129,Honduras,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0231159342345339,0.0279967702353962,0.0189378479986105
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0302091052370494,0.0365937736348463,0.0246019031241979
+1,All Population,5,Prevalence,8,Taiwan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0281147072953772,0.0332493525259583,0.0233808765324124
+1,All Population,5,Prevalence,18,Thailand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.023173361919494,0.0282281765829216,0.0188866988908748
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0332115770720542,0.0410701966150029,0.0268793142798701
+1,All Population,5,Prevalence,157,Yemen,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0319978437604755,0.0364589410750928,0.0279351527228344
+1,All Population,5,Prevalence,78,Denmark,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0355815507812519,0.0403081191354332,0.0315691164400599
+1,All Population,5,Prevalence,50,Montenegro,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0251590306297945,0.0288863371623003,0.0217372251110359
+1,All Population,5,Prevalence,67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0294575797358217,0.0357678417930669,0.0247816072429919
+1,All Population,5,Prevalence,82,Greece,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0456867711130659,0.0516482824336671,0.0404618136455262
+1,All Population,5,Prevalence,113,Guyana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0305370083262558,0.0370953490962596,0.0252435062067061
+1,All Population,5,Prevalence,79,Finland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0308671065874237,0.0347521713648248,0.0274983798386492
+1,All Population,5,Prevalence,109,Cuba,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0353296257403433,0.0427206020834975,0.0296886967489825
+1,All Population,5,Prevalence,19,Timor-Leste,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0207577423851987,0.0261933068443924,0.0160746447164818
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0339420770688478,0.0406505604768156,0.0282802797043438
+1,All Population,5,Prevalence,198,Zimbabwe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.026144588820739,0.0328422987538949,0.0206025990237026
+1,All Population,5,Prevalence,136,Paraguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0286248125402238,0.0350390064251772,0.0234868785402346
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0241884627919556,0.032685493160166,0.0177030242289719
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0204043694491031,0.026074022991742,0.0161261901037001
+1,All Population,5,Prevalence,162,Bhutan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0300991956642211,0.0360857396379198,0.0253504395908343
+1,All Population,5,Prevalence,216,Senegal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0248985643484003,0.029742716625705,0.0206336638586643
+1,All Population,5,Prevalence,132,Panama,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0234832460023221,0.0286379001486308,0.0195616330719418
+1,All Population,5,Prevalence,63,Ukraine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0526346601155583,0.0645741321534678,0.044305854058181
+1,All Population,5,Prevalence,194,Lesotho,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0259696258913622,0.0314217108607869,0.0216633053449852
+1,All Population,5,Prevalence,118,Suriname,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0316422176802491,0.0381608603361898,0.0263301902773559
+1,All Population,5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0210204480037764,0.0284410859631471,0.0152427715884501
+1,All Population,5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0339621638721265,0.0409382349541783,0.028344507443985
+1,All Population,5,Prevalence,48,Hungary,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0327953940328296,0.0375713234874118,0.0285304397830889
+1,All Population,5,Prevalence,110,Dominica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0327192857956397,0.0395775743973459,0.0274329942893613
+1,All Population,5,Prevalence,33,Armenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0357066207768626,0.0443558553063231,0.0289743954084126
+1,All Population,5,Prevalence,95,United Kingdom,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0536589989794364,0.0576417840451107,0.0499030108599136
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0214566588867264,0.0256158198714187,0.0179315848349021
+1,All Population,5,Prevalence,52,Romania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0242261632933983,0.0280907004864234,0.0208975943008162
+1,All Population,5,Prevalence,141,Egypt,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0375204215748569,0.0447534972487218,0.0311424650190959
+1,All Population,5,Prevalence,122,Ecuador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.027165169483924,0.0339295163008888,0.0218713387747876
+1,All Population,5,Prevalence,55,Slovenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0289382692380019,0.033401193170812,0.0249451345686159
+1,All Population,5,Prevalence,147,Libya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0415021630239712,0.0473227819157379,0.0359531067174474
+1,All Population,5,Prevalence,40,Turkmenistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0297315047742705,0.0372156060817145,0.0239549240578781
+1,All Population,5,Prevalence,72,New Zealand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0342483932844499,0.0380698895142905,0.0307918158032785
+1,All Population,5,Prevalence,89,Netherlands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0545311322930713,0.0606951355176487,0.0494919969458159
+1,All Population,5,Prevalence,110,Dominica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0325009155871592,0.0389979998406211,0.0271406033765959
+1,All Population,5,Prevalence,58,Estonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0348002483663423,0.0401989996317913,0.0303059144752501
+1,All Population,5,Prevalence,23,Kiribati,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.026768518056876,0.0366059145381501,0.0192007287993586
+1,All Population,5,Prevalence,150,Oman,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0302117013517314,0.036586076019381,0.0246204708947643
+1,All Population,5,Prevalence,189,United Republic of Tanzania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0271603768585486,0.0318672489123999,0.0227881574489154
+1,All Population,5,Prevalence,39,Tajikistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0261622852225431,0.032737489307889,0.0209260816615063
+1,All Population,5,Prevalence,71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0424530897596032,0.0475677145456743,0.0378386888939556
+1,All Population,5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0374590962774021,0.044928981234991,0.0311234025174999
+1,All Population,5,Prevalence,165,Pakistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0348528010798755,0.0407283396553718,0.0293884605478711
+1,All Population,5,Prevalence,24,Marshall Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0224413587759785,0.0303156589202836,0.0163205624437572
+1,All Population,5,Prevalence,149,Palestine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0352875023581712,0.0401541425325297,0.0307969684010696
+1,All Population,5,Prevalence,212,Mauritania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0221551308387426,0.0261925939413676,0.0184237130685796
+1,All Population,5,Prevalence,85,Israel,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0430768113708773,0.0504005594974686,0.0366759867978829
+1,All Population,5,Prevalence,160,Afghanistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0315984044747436,0.0364725163739122,0.0271859141769601
+1,All Population,5,Prevalence,190,Uganda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0226880229259703,0.0264776238373532,0.0193650318242239
+1,All Population,5,Prevalence,367,Monaco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0356963233551811,0.0397783876890104,0.0321943044586216
+1,All Population,5,Prevalence,125,Colombia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0211946457968423,0.0254548527708101,0.0177060582399538
+1,All Population,5,Prevalence,126,Costa Rica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0301366817167464,0.0373345104445207,0.0250008495065759
+1,All Population,5,Prevalence,200,Benin,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0212563601329499,0.0245080150742566,0.0181447263649356
+1,All Population,5,Prevalence,160,Afghanistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.031189643509962,0.0356880550372602,0.0271556624776172
+1,All Population,5,Prevalence,68,Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0268372508434248,0.0293711438076307,0.0247380207227109
+1,All Population,5,Prevalence,173,Gabon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0375206819860541,0.0491584259348786,0.0284871487888023
+1,All Population,5,Prevalence,94,Switzerland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0478784329353849,0.0539019028302164,0.0426050121613412
+1,All Population,5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0409302954675268,0.0495461725570412,0.0336421105005374
+1,All Population,5,Prevalence,385,Puerto Rico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0400556462643336,0.044777332905107,0.0355871400678933
+1,All Population,5,Prevalence,123,Peru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0286390616006963,0.0315475345636752,0.0258727996794725
+1,All Population,5,Prevalence,195,Namibia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0245801864412504,0.0294284404211902,0.0202866364593103
+1,All Population,5,Prevalence,97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0328950445499276,0.0422631924042632,0.0253137494366721
+1,All Population,5,Prevalence,139,Algeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0405844992049077,0.0460354016930284,0.0350263124355718
+1,All Population,5,Prevalence,435,South Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0270545387661935,0.03176741408259,0.022740131584245
+1,All Population,5,Prevalence,17,Sri Lanka,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0259147957612826,0.0324129100657941,0.0209760538311831
+1,All Population,5,Prevalence,206,Gambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0228696501563153,0.0264340040715165,0.0195524937346608
+1,All Population,5,Prevalence,107,Barbados,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0352613783426749,0.0422415611121613,0.0296669118063021
+1,All Population,5,Prevalence,13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.034897844219428,0.0401325297880909,0.029902614544214
+1,All Population,5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0212506192416915,0.0286495046678571,0.0154421651586095
+1,All Population,5,Prevalence,154,Tunisia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0500577412922657,0.059985968213697,0.0419277001435608
+1,All Population,5,Prevalence,68,Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0269863078407277,0.029784290129071,0.0247775617549223
+1,All Population,5,Prevalence,169,Central African Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0372702932279409,0.0485820089982546,0.0277914764823217
+1,All Population,5,Prevalence,15,Myanmar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0244408553901283,0.0285339119293565,0.0204283103580101
+1,All Population,5,Prevalence,146,Lebanon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0472323628365719,0.0538335387267239,0.040958510090007
+1,All Population,5,Prevalence,185,Rwanda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0269669771672991,0.0317564148576464,0.0227196093320482
+1,All Population,5,Prevalence,76,Belgium,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0386881796800971,0.0445046211758246,0.0333283974206476
+1,All Population,5,Prevalence,57,Belarus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0368415704851187,0.0431452620519896,0.0310650393781038
+1,All Population,5,Prevalence,183,Mauritius,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0432988207064986,0.0556750409880204,0.0344333761744435
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0317690574904187,0.0388109268402777,0.0261840453032709
+1,All Population,5,Prevalence,210,Liberia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0249126168523737,0.0287442472379792,0.0211127951556704
+1,All Population,5,Prevalence,53,Serbia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0282289477436863,0.0332455462214814,0.0235989302856505
+1,All Population,5,Prevalence,140,Bahrain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0410202788741594,0.047045730961375,0.0354587194178444
+1,All Population,5,Prevalence,157,Yemen,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0325293981423263,0.0372373199901883,0.0278587932719593
+1,All Population,5,Prevalence,351,Guam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.027521532681781,0.0371430176778414,0.0203619428187962
+1,All Population,5,Prevalence,178,Eritrea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0282686594358166,0.0333847126348071,0.0237541903026936
+1,All Population,5,Prevalence,205,Côte d'Ivoire,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0252962198322893,0.0305132365932999,0.0208914953737707
+1,All Population,5,Prevalence,185,Rwanda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0273322552519914,0.0319721563144903,0.0229916982632047
+1,All Population,5,Prevalence,172,Equatorial Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0346919201697076,0.0447497685906913,0.0256530993360481
+1,All Population,5,Prevalence,113,Guyana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.030343096786716,0.0366216437378495,0.0251446029573352
+1,All Population,5,Prevalence,179,Ethiopia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0347889777687561,0.0399300782824666,0.0292729822789559
+1,All Population,5,Prevalence,112,Grenada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0326608129226983,0.039332830386338,0.0272439131893682
+1,All Population,5,Prevalence,74,Andorra,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.036869017389373,0.0415282936072525,0.0331813460361826
+1,All Population,5,Prevalence,201,Burkina Faso,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0258738579954837,0.0295572706268975,0.0220445669644268
+1,All Population,5,Prevalence,369,Nauru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0222164462781255,0.0301490133593328,0.0160747543751643
+1,All Population,5,Prevalence,183,Mauritius,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0422665488513361,0.0540198096443184,0.0335037952892294
+1,All Population,5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0282490606296251,0.0388835711672079,0.0210369262902898
+1,All Population,5,Prevalence,396,San Marino,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0381679176282844,0.0426351987606833,0.0345541955495886
+1,All Population,5,Prevalence,170,Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0420396498600035,0.052341841021038,0.0330590236351589
+1,All Population,5,Prevalence,203,Cabo Verde,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0282801849683229,0.0330453156045572,0.0241845497960948
+1,All Population,5,Prevalence,413,Tokelau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0262790844033173,0.0353610395853492,0.0195539769377529
+1,All Population,5,Prevalence,200,Benin,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0223130501323552,0.0258248141255608,0.0188872560785368
+1,All Population,5,Prevalence,28,Solomon Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0231126192222302,0.031329347481806,0.016618662320298
+1,All Population,5,Prevalence,413,Tokelau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0259643210546241,0.0346629900453634,0.0193015868126051
+1,All Population,5,Prevalence,197,Eswatini,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0293591757194807,0.0360882174130586,0.0236306000376992
+1,All Population,5,Prevalence,57,Belarus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0353958182581727,0.04182320523207,0.0298413684339187
+1,All Population,5,Prevalence,130,Mexico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0275892779307597,0.0318275140096647,0.0239987850365948
+1,All Population,5,Prevalence,47,Czechia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0336248059454045,0.0414043534881958,0.0275546039349975
+1,All Population,5,Prevalence,34,Azerbaijan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0327814587172785,0.0407878075908933,0.0267241734503408
+1,All Population,5,Prevalence,83,Iceland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0445143165586073,0.0495558911384731,0.0400606815994108
+1,All Population,5,Prevalence,202,Cameroon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0244690610870933,0.0283210409272315,0.0206980252023944
+1,All Population,5,Prevalence,298,American Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0259397004719681,0.0355525779420941,0.0190189228897324
+1,All Population,5,Prevalence,81,Germany,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0433967105453369,0.0474019641987176,0.0399073798351821
+1,All Population,5,Prevalence,115,Jamaica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0323685915579638,0.0393179873556413,0.0269108936851684
+1,All Population,5,Prevalence,28,Solomon Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0234732769659918,0.0317979317927681,0.0169100226015163
+1,All Population,5,Prevalence,20,Viet Nam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.023022259281896,0.0276636158039223,0.0189193943780197
+1,All Population,5,Prevalence,99,Uruguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0326718689732552,0.0416137803694028,0.0256705145605841
+1,All Population,5,Prevalence,52,Romania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0241466174253824,0.0277890895044,0.0208489047264123
+1,All Population,5,Prevalence,50,Montenegro,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.025335059018178,0.0293378760193213,0.0218247604116142
+1,All Population,5,Prevalence,46,Croatia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0252700434147534,0.0292547115624457,0.0215999400780943
+1,All Population,5,Prevalence,10,Cambodia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0225104251730322,0.0264598315755779,0.0187509764150553
+1,All Population,5,Prevalence,102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0456108545179333,0.0515088535092349,0.0404094508149226
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0322150883668322,0.0388902282681468,0.0269301641227486
+1,All Population,5,Prevalence,164,Nepal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.028011380650008,0.0317572572919213,0.0247893604105385
+1,All Population,5,Prevalence,27,Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0223237972109279,0.0301174119174148,0.0165015049343115
+1,All Population,5,Prevalence,186,Seychelles,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0264983615511748,0.0313203482111921,0.0222014992297518
+1,All Population,5,Prevalence,208,Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0234606452940439,0.0270862591340175,0.0198630314172621
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0374046185703642,0.0486734180179166,0.0278755927287868
+1,All Population,5,Prevalence,111,Dominican Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0353885790201738,0.0434968620660067,0.0290293168932211
+1,All Population,5,Prevalence,23,Kiribati,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0264440410062755,0.0360545428666427,0.0189230024060023
+1,All Population,5,Prevalence,212,Mauritania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0230219028013833,0.0275044178510754,0.0191266018072051
+1,All Population,5,Prevalence,175,Burundi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0261264134208535,0.0306269078088098,0.021946990630771
+1,All Population,5,Prevalence,194,Lesotho,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0262436856710095,0.0317630956110065,0.0217901120485144
+1,All Population,5,Prevalence,213,Niger,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0211226366850903,0.0242787825910203,0.0178436359479647
+1,All Population,5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0371183480793486,0.0443389416479176,0.0310374809172978
+1,All Population,5,Prevalence,101,Canada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0354976834235914,0.0396374132760236,0.0321505978826013
+1,All Population,5,Prevalence,169,Central African Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0373446373095046,0.0485687944496529,0.0279813688399669
+1,All Population,5,Prevalence,86,Italy,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0259131588912536,0.0291170786845302,0.0232283487222194
+1,All Population,5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0309584925204952,0.0366803771495744,0.0264920268790148
+1,All Population,5,Prevalence,54,Slovakia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0273417665460909,0.0328213101551273,0.0227555982898225
+1,All Population,5,Prevalence,161,Bangladesh,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0415805809423706,0.0515588333286184,0.0331793288994893
+1,All Population,5,Prevalence,67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0305698472117804,0.0372847716968763,0.0257481298702483
+1,All Population,5,Prevalence,131,Nicaragua,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.023416172748023,0.0283888854577827,0.0193096004658705
+1,All Population,5,Prevalence,84,Ireland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0353856681204949,0.0392308289562476,0.0321842775036983
+1,All Population,5,Prevalence,112,Grenada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0328005514840307,0.0398020655409613,0.0274406357923019
+1,All Population,5,Prevalence,80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0377815356670451,0.0419361971717199,0.0338905116195664
+1,All Population,5,Prevalence,35,Georgia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0427244998128067,0.0506760310410141,0.0359896679641194
+1,All Population,5,Prevalence,128,Guatemala,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0288543872684662,0.0351241912732851,0.0234274906241721
+1,All Population,5,Prevalence,15,Myanmar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0250331569648071,0.0294443824381082,0.0207939828720191
+1,All Population,5,Prevalence,213,Niger,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0213137337439479,0.0246905695376206,0.0179477863958594
+1,All Population,5,Prevalence,75,Austria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0266551301424101,0.0304200544940677,0.0235281644282219
+1,All Population,5,Prevalence,41,Uzbekistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0301085461905039,0.0374862306202363,0.0243537438393483
+1,All Population,5,Prevalence,122,Ecuador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0278990565519398,0.0351566122410614,0.022506915597979
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0321624269195583,0.0378182425402799,0.0274311805247307
+1,All Population,5,Prevalence,374,Niue,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0284768310276478,0.0382692889645923,0.0212826921573543
+1,All Population,5,Prevalence,87,Luxembourg,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0425138584097042,0.0478953445854669,0.0379871677484183
+1,All Population,5,Prevalence,114,Haiti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0329367692471246,0.0399286583707166,0.026881039916001
+1,All Population,5,Prevalence,201,Burkina Faso,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0260491103975264,0.0298934682710368,0.0220851923101706
+1,All Population,5,Prevalence,60,Lithuania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0412465843222274,0.0529859611470424,0.0333137533953657
+1,All Population,5,Prevalence,91,Portugal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0408640258944171,0.045869259139951,0.0366247243366164
+1,All Population,5,Prevalence,149,Palestine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0350902399180389,0.0401620977151453,0.0301212769858317
+1,All Population,5,Prevalence,151,Qatar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0344348621656488,0.0395461099338518,0.0301092931851508
+1,All Population,5,Prevalence,30,Vanuatu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0218553102739128,0.0295651627004438,0.0159400390867567
+1,All Population,5,Prevalence,148,Morocco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.039531760691499,0.045090702532129,0.034373868547125
+1,All Population,5,Prevalence,18,Thailand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0234976818008505,0.0287289413445724,0.0191849968848368
+1,All Population,5,Prevalence,127,El Salvador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0232230617812837,0.0282606630333335,0.0192027282960497
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0334407776468359,0.045875846782173,0.0251264750628005
+1,All Population,5,Prevalence,209,Guinea-Bissau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0225825585392853,0.0262170201298739,0.0190821564236359
+1,All Population,5,Prevalence,205,Côte d'Ivoire,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0251374802280165,0.0304162243036858,0.0205514148463772
+1,All Population,5,Prevalence,144,Jordan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0363965141894791,0.0437139676861158,0.0303086459546865
+1,All Population,5,Prevalence,76,Belgium,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0370925341738466,0.0432547256979278,0.0320010142620192
+1,All Population,5,Prevalence,208,Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0236412257448761,0.0270883120094219,0.0201124446145669
+1,All Population,5,Prevalence,98,Chile,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.040126159831091,0.0539365280883607,0.0295897864110104
+1,All Population,5,Prevalence,141,Egypt,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0375693143716577,0.0448182019171488,0.0314718723042815
+1,All Population,5,Prevalence,168,Angola,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.034711468357843,0.0452269695555349,0.0259295196192057
+1,All Population,5,Prevalence,218,Togo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0294960692058101,0.0378570611013588,0.0226103258776937
+1,All Population,5,Prevalence,93,Sweden,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0428997632209411,0.047353439697345,0.0389991597135888
+1,All Population,5,Prevalence,99,Uruguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0327992284814343,0.0420613659251439,0.025894676390428
+1,All Population,5,Prevalence,155,Türkiye,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0461724058014701,0.0517074242832627,0.0411280170129027
+1,All Population,5,Prevalence,114,Haiti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.033044027975941,0.0400229273361449,0.0270742540458898
+1,All Population,5,Prevalence,214,Nigeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0278567809672634,0.0330148585066599,0.02313777305654
+1,All Population,5,Prevalence,59,Latvia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0345583148434652,0.0390782601795935,0.0306058187430297
+1,All Population,5,Prevalence,107,Barbados,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0354538334103833,0.0427520974224767,0.0299124655126629
+1,All Population,5,Prevalence,215,Sao Tome and Principe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0236340522238774,0.0274544516399716,0.0202303614433858
+1,All Population,5,Prevalence,151,Qatar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0329048914622006,0.0376619645694131,0.0283492501014151
+1,All Population,5,Prevalence,320,Cook Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0285108655878919,0.0385691085706538,0.0212889308561052
+1,All Population,5,Prevalence,47,Czechia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0343970224213888,0.042460599167208,0.0284108326385031
+1,All Population,5,Prevalence,115,Jamaica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0321923932660375,0.0388335955746657,0.0267613109799492
+1,All Population,5,Prevalence,49,North Macedonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0258848712724023,0.0300225675611899,0.0222934058051173
+1,All Population,5,Prevalence,6,China,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0378381050983876,0.0424857167449429,0.0337482208421671
+1,All Population,5,Prevalence,36,Kazakhstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0273407054347556,0.0330543487790864,0.0225982006570476
+1,All Population,5,Prevalence,385,Puerto Rico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0402323052785881,0.0453894826514242,0.0356321450090521
+1,All Population,5,Prevalence,129,Honduras,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0249587744343566,0.0304291261644953,0.0203768182034817
+1,All Population,5,Prevalence,135,Brazil,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0357892445628571,0.0405798399900406,0.0314734632146069
+1,All Population,5,Prevalence,150,Oman,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0302980182113739,0.0366807020558893,0.0245490369810728
+1,All Population,5,Prevalence,181,Madagascar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0270965850406958,0.032116967065419,0.0228322178524437
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0212680740223695,0.0272084210974382,0.0166184329963068
+1,All Population,5,Prevalence,46,Croatia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0262250307851484,0.0304654694694898,0.0224274199033276
+1,All Population,5,Prevalence,211,Mali,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0219139568094948,0.0263197669263793,0.0180373153963276
+1,All Population,5,Prevalence,204,Chad,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0293324659600655,0.0347850583022363,0.0237157938804438
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0369034740769658,0.0432530272815578,0.0314757156443587
+1,All Population,5,Prevalence,62,Russian Federation,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0402907390869837,0.0469300605223502,0.0349723845316691
+1,All Population,5,Prevalence,180,Kenya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0269771673124273,0.0322548202874487,0.0225029135095518
+1,All Population,5,Prevalence,83,Iceland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0448865728332665,0.0502407020492472,0.0399199523807918
+1,All Population,5,Prevalence,59,Latvia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0345511684424466,0.0393206301779486,0.0307427528773312
+1,All Population,5,Prevalence,36,Kazakhstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0275954585976772,0.0334558783896829,0.0228008847272655
+1,All Population,5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0340461655746141,0.041181974032591,0.0284394733548756
+1,All Population,5,Prevalence,305,Bermuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0367709349947138,0.0445495463842627,0.0310632284423146
+1,All Population,5,Prevalence,207,Ghana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0350053236890738,0.0415304176503244,0.0288836982773571
+1,All Population,5,Prevalence,29,Tonga,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0278332234305221,0.0429567974300852,0.0173084270907612
+1,All Population,5,Prevalence,187,Somalia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0261854156809138,0.0309676478887084,0.022008780999893
+1,All Population,5,Prevalence,24,Marshall Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0228954545784343,0.0311770246065451,0.0166235799278609
+1,All Population,5,Prevalence,11,Indonesia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0205790230264262,0.0260584959183034,0.016827608636397
+1,All Population,5,Prevalence,17,Sri Lanka,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0257372810115509,0.0321112291736936,0.0208152901695035
+1,All Population,5,Prevalence,189,United Republic of Tanzania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0274059260547938,0.0324554964609739,0.023067922522623
+1,All Population,5,Prevalence,82,Greece,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0490792648083462,0.0559509201272378,0.0431721476799092
+1,All Population,5,Prevalence,435,South Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0271618824256795,0.0321660001953543,0.0228877400925891
+1,All Population,5,Prevalence,161,Bangladesh,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0414669220981704,0.0513996349061111,0.0333647750635578
+1,All Population,5,Prevalence,416,Tuvalu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0249870170018904,0.0338218708875394,0.0184574196406529
+1,All Population,5,Prevalence,69,Singapore,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0177663558205688,0.0209473040882622,0.0151028365290743
+1,All Population,5,Prevalence,59,Latvia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0345842438804696,0.0395454496707632,0.0307666095438957
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0206976728778654,0.0263797001787072,0.0161969719595956
+1,All Population,5,Prevalence,10,Cambodia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.022919699285125,0.026854906907244,0.019009803547803
+1,All Population,5,Prevalence,37,Kyrgyzstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.028280818776988,0.035312868286424,0.0228039707934989
+1,All Population,5,Prevalence,172,Equatorial Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0348965428821859,0.0453096809127764,0.0259082892904655
+1,All Population,5,Prevalence,34,Azerbaijan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0330928795261165,0.0411819482656126,0.0270338223845051
+1,All Population,5,Prevalence,43,Albania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0248160748416028,0.028750932214269,0.0213615484024088
+1,All Population,5,Prevalence,215,Sao Tome and Principe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0233890805747405,0.0270397979959504,0.0200100347204829
+1,All Population,5,Prevalence,88,Malta,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0255730859200659,0.0295947067982957,0.0221497481430038
+1,All Population,5,Prevalence,196,South Africa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0314023482703307,0.0370807887953102,0.0267583934865969
+1,All Population,5,Prevalence,173,Gabon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0376150387044292,0.049350070571071,0.028710186098204
+1,All Population,5,Prevalence,130,Mexico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0279177764102603,0.0325544399421965,0.0242352175597311
+1,All Population,5,Prevalence,83,Iceland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0452251913052167,0.0508007460495303,0.0401513744774064
+1,All Population,5,Prevalence,141,Egypt,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0376917778235334,0.0451131736551427,0.0315901616990611
+1,All Population,5,Prevalence,207,Ghana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.035414052489445,0.042331006985174,0.0290564113196369
+1,All Population,5,Prevalence,131,Nicaragua,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0223325385650769,0.0273627283495361,0.0184431035008625
+1,All Population,5,Prevalence,54,Slovakia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0272454757919064,0.032513940904142,0.0225569749875237
+1,All Population,5,Prevalence,109,Cuba,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0354180712611096,0.0430182421551805,0.0296612371198811
+1,All Population,5,Prevalence,216,Senegal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0249565797243401,0.0298694401999759,0.0206119599909603
+1,All Population,5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.062112618621594,0.0778813421074691,0.0479812150279821
+1,All Population,5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0630337805888858,0.0790638624202544,0.0490030191765873
+1,All Population,5,Prevalence,106,Bahamas,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0328903294164555,0.0396177736429724,0.0273799139088632
+1,All Population,5,Prevalence,126,Costa Rica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.030299010886528,0.0375265036364635,0.0251399949410187
+1,All Population,5,Prevalence,177,Djibouti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0296980878485253,0.0344010758958148,0.0250906528120329
+1,All Population,5,Prevalence,94,Switzerland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0482561956485178,0.0544939649243822,0.0430513104114258
+1,All Population,5,Prevalence,522,Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0385914273488419,0.045238799412383,0.0321736725150526
+1,All Population,5,Prevalence,146,Lebanon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0472475994141708,0.0533852963546398,0.0411898865088105
+1,All Population,5,Prevalence,154,Tunisia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0495270682732119,0.0587198108285609,0.0415505404026858
+1,All Population,5,Prevalence,88,Malta,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0254425360226202,0.0294197948798368,0.022042232913425
+1,All Population,5,Prevalence,380,Palau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.029227475216274,0.0401320101701083,0.0218985057910335
+1,All Population,5,Prevalence,30,Vanuatu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0221133894702597,0.0300538886104506,0.0161353607623384
+1,All Population,5,Prevalence,77,Cyprus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0294124435609774,0.0342143125046006,0.0254973184136344
+1,All Population,5,Prevalence,71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0424904150805241,0.0475843413653027,0.0379523160298682
+1,All Population,5,Prevalence,41,Uzbekistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0288604685224584,0.0357333580671947,0.0234490762322326
+1,All Population,5,Prevalence,116,Saint Lucia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0341844888871893,0.041504878071577,0.0285611213925078
+1,All Population,5,Prevalence,101,Canada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0356318262671862,0.0398076233328083,0.0321805963291001
+1,All Population,5,Prevalence,58,Estonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0348384697112892,0.0404153580303801,0.0302957332649877
+1,All Population,5,Prevalence,79,Finland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0320336319829434,0.0360001646529026,0.0284769865360914
+1,All Population,5,Prevalence,77,Cyprus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0295126367534912,0.0345398785332899,0.025569690328578
+1,All Population,5,Prevalence,108,Belize,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0287474748534795,0.0347418035651949,0.0238180402977846
+1,All Population,5,Prevalence,148,Morocco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0400732446104855,0.0459112710693305,0.0346772818744227
+1,All Population,5,Prevalence,130,Mexico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0277568910904268,0.0321832737027764,0.0240070325550212
+1,All Population,5,Prevalence,20,Viet Nam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0234494672198425,0.0282485059820754,0.0193723907316018
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.037661743644364,0.0494051962852094,0.0281033162521305
+1,All Population,5,Prevalence,177,Djibouti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0284700606790315,0.0332957388206477,0.0242567839494018
+1,All Population,5,Prevalence,55,Slovenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0301958682107766,0.034932303520741,0.0260855458180177
+1,All Population,5,Prevalence,61,Republic of Moldova,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0342399080714626,0.0405384401043024,0.0288279698155286
+1,All Population,5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0341561853156183,0.041363268417369,0.0284462975574064
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0245752529438358,0.0333807113681104,0.0179703277279494
+1,All Population,5,Prevalence,40,Turkmenistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0283455478358618,0.0352688841383342,0.0230039372057132
+1,All Population,5,Prevalence,102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0457159013468221,0.0515532291006423,0.0404354997723972
+1,All Population,5,Prevalence,106,Bahamas,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0331370619821009,0.0402478050090933,0.0276103021104211
+1,All Population,5,Prevalence,168,Angola,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0350098857226225,0.0459366390270341,0.0262327932636046
+1,All Population,5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.0611153475156707,0.0762140913958339,0.0471432706948347
+1,All Population,5,Prevalence,72,New Zealand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.034327272789968,0.0380665938074528,0.0307625344094049
+1,All Population,5,Prevalence,85,Israel,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0436403321644536,0.051311944295295,0.0371633539254023
+1,All Population,5,Prevalence,90,Norway,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.031351166444689,0.0353526877515454,0.0279807096176366
+1,All Population,5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0414473045557397,0.0507468715135207,0.0339541719047758
+1,All Population,5,Prevalence,143,Iraq,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0337233462252359,0.0395139517076261,0.0284377172314712
+1,All Population,5,Prevalence,189,United Republic of Tanzania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0276795907194787,0.0326680578510243,0.023255907139327
+1,All Population,5,Prevalence,202,Cameroon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0247683128570534,0.028810400651048,0.0209319178717701
+1,All Population,5,Prevalence,135,Brazil,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0358474113440773,0.0405737555958131,0.031500667186594
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0323244182998537,0.0379911857766705,0.0276814951557131
+1,All Population,5,Prevalence,182,Malawi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.026453212846798,0.0319198200762055,0.0216188984384177
+1,All Population,5,Prevalence,22,Fiji,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0235173342103228,0.0324203238070002,0.017268116509714
+1,All Population,5,Prevalence,144,Jordan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0375925405633592,0.0450988892295487,0.0312165925104632
+1,All Population,5,Prevalence,95,United Kingdom,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0546596110919473,0.0587111601433491,0.0505847197427943
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0349115781363437,0.0434263260795743,0.0283928606976335
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0217728278571675,0.0261267449922692,0.0181814937978442
+1,All Population,5,Prevalence,217,Sierra Leone,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0236726298587167,0.0274222478726474,0.0200685421791281
+1,All Population,5,Prevalence,179,Ethiopia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0351541802080018,0.0407220023145384,0.0296383296198402
+1,All Population,5,Prevalence,132,Panama,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0236409119152623,0.0288139026781829,0.0197137128755362
+1,All Population,5,Prevalence,147,Libya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0420780168683896,0.0479661780089481,0.0363490688949894
+1,All Population,5,Prevalence,49,North Macedonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0254915415396247,0.0295097929884729,0.0220699585094059
+1,All Population,5,Prevalence,349,Greenland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0442439104605378,0.0544833191541239,0.0366923440367683
+1,All Population,5,Prevalence,190,Uganda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0225232292022507,0.0263091489341773,0.0191848887532868
+1,All Population,5,Prevalence,84,Ireland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0347805678319477,0.0388898741054517,0.0311449586206214
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0341178458909189,0.0411195532831767,0.0284479507684317
+1,All Population,5,Prevalence,125,Colombia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.02125692571475,0.0257330781931396,0.0177750757469919
+1,All Population,5,Prevalence,33,Armenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0360441404927532,0.044697318851428,0.0293496612490589
+1,All Population,5,Prevalence,108,Belize,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0289961928076918,0.035161999628059,0.0239738930483987
+1,All Population,5,Prevalence,195,Namibia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0236144073523563,0.0284296970651006,0.0195440160535962
+1,All Population,5,Prevalence,93,Sweden,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0419895122987945,0.0464259237408037,0.0381032049537081
+1,All Population,5,Prevalence,86,Italy,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0255368976042081,0.0287661325925792,0.0228822586411048
+1,All Population,5,Prevalence,182,Malawi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0255400147110896,0.0309159578446066,0.0209192607682694
+1,All Population,5,Prevalence,178,Eritrea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0289766712434195,0.033995899638368,0.0243807947488905
+1,All Population,5,Prevalence,194,Lesotho,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0251057320592139,0.0302767688269794,0.0208146928606954
+1,All Population,5,Prevalence,198,Zimbabwe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0265036784250204,0.0332268066685979,0.0208737540839355
+1,All Population,5,Prevalence,66,Brunei Darussalam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0244304210797479,0.0293951670870415,0.0203863155995141
+1,All Population,5,Prevalence,63,Ukraine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0529445284427513,0.0645978474198169,0.0445178469567042
+1,All Population,5,Prevalence,14,Maldives,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0240691437032042,0.0283047986523153,0.0200239126009676
+1,All Population,5,Prevalence,14,Maldives,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.023587748504478,0.0278899176671126,0.0195944205511953
+1,All Population,5,Prevalence,396,San Marino,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0383765449989636,0.0430462238031273,0.0346052035848607
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0240027235103732,0.0294630389110949,0.0198758331899805
+1,All Population,5,Prevalence,201,Burkina Faso,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0262320530442146,0.0301281893711104,0.0222354204480471
+1,All Population,5,Prevalence,212,Mauritania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0217781471613007,0.0260479289772626,0.0181155204920563
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0238342627817182,0.0293273437680747,0.0196111532896452
+1,All Population,5,Prevalence,69,Singapore,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0178218641434711,0.0211540731502542,0.0151624944640676
+1,All Population,5,Prevalence,176,Comoros,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0303288989967944,0.0377036683263255,0.0244359717268665
+1,All Population,5,Prevalence,80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0379215472821275,0.0421361636833706,0.0341291916241228
+1,All Population,5,Prevalence,92,Spain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0363108926925796,0.0406019493426037,0.0328999355515756
+1,All Population,5,Prevalence,184,Mozambique,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0240155990925987,0.0282191291539314,0.0202301918216715
+1,All Population,5,Prevalence,116,Saint Lucia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0339468521101124,0.0408776192158567,0.0283074704838664
+1,All Population,5,Prevalence,45,Bulgaria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0311005448308977,0.0357492160923579,0.0267847335754381
+1,All Population,5,Prevalence,145,Kuwait,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.041187890507524,0.0474633113569264,0.0355489694609522
+1,All Population,5,Prevalence,206,Gambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.024326166851629,0.0281437354124543,0.0205600684419382
+1,All Population,5,Prevalence,351,Guam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0287645946718394,0.0393540136701186,0.0213223909160998
+1,All Population,5,Prevalence,51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0287707800617294,0.0326652246402242,0.0256458127185655
+1,All Population,5,Prevalence,369,Nauru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0225082378559103,0.0307810477479287,0.016322171921424
+1,All Population,5,Prevalence,162,Bhutan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0303758361870894,0.0364398857374212,0.0256867910997448
+1,All Population,5,Prevalence,136,Paraguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0288162223643609,0.0352035253328614,0.0237878241456861
+1,All Population,5,Prevalence,127,El Salvador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0234521444467673,0.028680988518063,0.0194111078689057
+1,All Population,5,Prevalence,48,Hungary,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0328859181329089,0.0377797058760121,0.0286782578409201
+1,All Population,5,Prevalence,170,Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0451547573374175,0.0569903594312244,0.0356242517332488
+1,All Population,5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0224928918311401,0.0306141380654121,0.0163492012707997
+1,All Population,5,Prevalence,209,Guinea-Bissau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0227439309550334,0.0265033203727386,0.019122384650107
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0337606109285429,0.0466041252526111,0.0252177618229241
+1,All Population,5,Prevalence,143,Iraq,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0341403524256697,0.0401919165724865,0.0286590935119653
+1,All Population,5,Prevalence,298,American Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0263366004846159,0.0359827256389888,0.0193743320463533
+1,All Population,5,Prevalence,19,Timor-Leste,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0207347704485933,0.0261676171673711,0.0160721062629836
+1,All Population,5,Prevalence,351,Guam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0291424972392736,0.0401113334845994,0.0216528836584934
+1,All Population,5,Prevalence,217,Sierra Leone,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0255260609259804,0.0296539142688188,0.0215615014874881
+1,All Population,5,Prevalence,8,Taiwan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0284799338225938,0.0336642274864362,0.0237328771193161
+1,All Population,5,Prevalence,38,Mongolia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0270043181576863,0.033059985168443,0.0221013841590109
+1,All Population,5,Prevalence,191,Zambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0251056978669844,0.0303062046588104,0.0206048756058821
+1,All Population,5,Prevalence,180,Kenya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0283569520812309,0.033844892074038,0.0236849880674891
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0324037623700858,0.0392748455135225,0.0269943249750996
+1,All Population,5,Prevalence,61,Republic of Moldova,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0337728259198447,0.0401291407029911,0.0284276382367745
+1,All Population,5,Prevalence,38,Mongolia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0270145366620432,0.033128168807321,0.0220694391178063
+1,All Population,5,Prevalence,196,South Africa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0316357107987736,0.0372990309735291,0.0269934883265312
+1,All Population,5,Prevalence,140,Bahrain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0411806370162456,0.0474684123930994,0.0353937471540803
+1,All Population,5,Prevalence,176,Comoros,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0314282312771325,0.0390571193953122,0.0254148734682054
+1,All Population,5,Prevalence,187,Somalia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0262223651913594,0.0310314845485032,0.0220083808094646
+1,All Population,5,Prevalence,374,Niue,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0287609666521313,0.0389915988967568,0.0215273775350901
+1,All Population,5,Prevalence,128,Guatemala,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0284110934429783,0.0348704400821231,0.0231698030521423
+1,All Population,5,Prevalence,175,Burundi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0263603011463266,0.0311804955104847,0.0220674488336293
+1,All Population,5,Prevalence,139,Algeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0406193319070709,0.0462086460019544,0.0350900237264553
+1,All Population,5,Prevalence,98,Chile,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.042949953809223,0.058162969301403,0.0313488314153264
+1,All Population,5,Prevalence,123,Peru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0286307239598144,0.0318251232442752,0.0257619536188983
+1,All Population,5,Prevalence,197,Eswatini,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0295573049623983,0.0363248962285097,0.023750024800606
+1,All Population,5,Prevalence,210,Liberia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0256303129885086,0.0297929365309267,0.021622866181419
+1,All Population,5,Prevalence,74,Andorra,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0374133186822861,0.0422080198175089,0.0337978608488261
+1,All Population,5,Prevalence,57,Belarus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.03741920062122,0.0443100517728362,0.031657182746497
+1,All Population,5,Prevalence,155,Türkiye,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0464990013586533,0.0523574223319114,0.0413160046494316
+1,All Population,5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0311424453842165,0.0370930958107326,0.0266754890207627
+1,All Population,5,Prevalence,111,Dominican Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0355445189418597,0.0438535013973034,0.0291868746366469
+1,All Population,5,Prevalence,305,Bermuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0369495757688359,0.0448016445078961,0.0310806759742853
+1,All Population,5,Prevalence,81,Germany,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0437900633801288,0.0476900139870788,0.0402119861427657
+1,All Population,5,Prevalence,218,Togo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0312237465936775,0.0400667358004985,0.0240582844209079
+1,All Population,5,Prevalence,43,Albania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0256466339701121,0.0295410248330296,0.0222156487402394
+1,All Population,5,Prevalence,39,Tajikistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.026781797204475,0.0335171027546899,0.0215014225193803
+1,All Population,5,Prevalence,75,Austria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0267678072464999,0.0305531324277947,0.0235877537664068
+1,All Population,5,Prevalence,13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0354686204191984,0.0405352874664322,0.0303140413351243
+1,All Population,5,Prevalence,150,Oman,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0303886368956974,0.0367759456275846,0.0246370379804877
+1,All Population,5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0341577608982967,0.0415161635148468,0.0285268192075272
+1,All Population,5,Prevalence,90,Norway,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.03117158995683,0.0350254186983522,0.0278958344228754
+1,All Population,5,Prevalence,35,Georgia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0419014813528749,0.0497056209774791,0.0353425724970307
+1,All Population,5,Prevalence,367,Monaco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0360641045167143,0.040393741154428,0.0324652575022434
+1,All Population,5,Prevalence,203,Cabo Verde,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.028536674546722,0.0333791302698826,0.0243738209493999
+1,All Population,5,Prevalence,97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0330467913860842,0.0427987083191992,0.025505648958569
+1,All Population,5,Prevalence,522,Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0389992484284734,0.0457485658342177,0.0325596209482615
+1,All Population,5,Prevalence,22,Fiji,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0233655994459813,0.0319922812285174,0.0171152727984031
+1,All Population,5,Prevalence,416,Tuvalu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.025226210341457,0.0343947024652734,0.0186489011021777
+1,All Population,5,Prevalence,18,Thailand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.023785833115616,0.029189378991793,0.0194563645753487
+1,All Population,5,Prevalence,118,Suriname,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0317896848848082,0.0386092582024843,0.0264274929548424
+1,All Population,5,Prevalence,60,Lithuania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0413012058829559,0.0529655455249077,0.0333730723736243
+1,All Population,5,Prevalence,165,Pakistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.034977588552003,0.0410030408169752,0.02959199326105
+1,All Population,5,Prevalence,173,Gabon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0377197222782969,0.0495554507718453,0.0285610353101794
+1,All Population,5,Prevalence,211,Mali,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0219392941152893,0.0263958381254286,0.0180161144519448
+1,All Population,5,Prevalence,186,Seychelles,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0256562957158223,0.030385598658332,0.0215594743226993
+1,All Population,5,Prevalence,160,Afghanistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0319510199274134,0.0367733224127106,0.0273868654914754
+1,All Population,5,Prevalence,204,Chad,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0289276557950424,0.0345973632261665,0.0235003689120681
+1,All Population,5,Prevalence,191,Zambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0250997778804766,0.0302120413895236,0.0205431839277598
+1,All Population,5,Prevalence,27,Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0225132131343253,0.030509071207527,0.0166471277831865
+1,All Population,5,Prevalence,149,Palestine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0355630768950491,0.040621031319946,0.030458287508134
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0304514078863402,0.0373594190761014,0.0250437364957111
+1,All Population,5,Prevalence,87,Luxembourg,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0428353071647872,0.0482191328108391,0.0380978239543079
+1,All Population,5,Prevalence,198,Zimbabwe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0266391621109874,0.0333550641844159,0.0210594059385897
+1,All Population,5,Prevalence,110,Dominica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0329371902725217,0.0398795059767137,0.0275505363995545
+1,All Population,5,Prevalence,51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0285500893275428,0.0324291853235855,0.0253901629987056
+1,All Population,5,Prevalence,184,Mozambique,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0238164091351708,0.0280175838287584,0.020135952091563
+1,All Population,5,Prevalence,68,Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0263271274406026,0.0291783202178307,0.0240097264430393
+1,All Population,5,Prevalence,145,Kuwait,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.041868073468927,0.0482969294112829,0.0358380237379313
+1,All Population,5,Prevalence,193,Botswana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0273236338133419,0.0329449053654453,0.0225662822176134
+1,All Population,5,Prevalence,53,Serbia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0274346550712973,0.0324953878717922,0.0230351031576022
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0249677552023979,0.0339996185447234,0.0183870609453261
+1,All Population,5,Prevalence,29,Tonga,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0282843580415535,0.0440093359188485,0.0175383498427358
+1,All Population,5,Prevalence,76,Belgium,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0396487585179834,0.0463481951261525,0.034269209101054
+1,All Population,5,Prevalence,380,Palau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0296238142112557,0.0406505752092662,0.0221962677359934
+1,All Population,5,Prevalence,213,Niger,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0216251121627435,0.02509853738589,0.0182322700896169
+1,All Population,5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0286240378970234,0.039288787410515,0.0212821033828054
+1,All Population,5,Prevalence,214,Nigeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0279641181360083,0.0332012173665266,0.0232743129478712
+1,All Population,5,Prevalence,164,Nepal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.02808102087675,0.0318188587061846,0.0247222650885601
+1,All Population,5,Prevalence,82,Greece,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.046428306567297,0.052922395947826,0.040961935043973
+1,All Population,5,Prevalence,95,United Kingdom,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0561280973684011,0.0600701241932546,0.0521918745474742
+1,All Population,5,Prevalence,123,Peru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0285323400883535,0.0316598370420692,0.0257424729495768
+1,All Population,5,Prevalence,58,Estonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0348741163811651,0.0404421538546649,0.0303846043854472
+1,All Population,5,Prevalence,200,Benin,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0226076386461077,0.0263219886167491,0.019105189831349
+1,All Population,5,Prevalence,181,Madagascar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.027477269687135,0.0324290435451765,0.0231150813780322
+1,All Population,5,Prevalence,185,Rwanda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.027917788319356,0.0328267851623334,0.0235763580142612
+1,All Population,5,Prevalence,172,Equatorial Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0342851900948805,0.0449680391810502,0.0255957265791043
+1,All Population,5,Prevalence,50,Montenegro,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0255069329719392,0.0294353159659009,0.0220927219329783
+1,All Population,5,Prevalence,190,Uganda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0227664288987426,0.0265175724213861,0.0192880208207916
+1,All Population,5,Prevalence,89,Netherlands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.059858716588138,0.066854424299956,0.0543225579759471
+1,All Population,5,Prevalence,6,China,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0380947527406493,0.0428640653206195,0.0339588946544737
+1,All Population,5,Prevalence,17,Sri Lanka,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0259622499128513,0.032259155507872,0.0209747810434262
+1,All Population,5,Prevalence,320,Cook Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0288177210037335,0.0393545241716772,0.0215471271305737
+1,All Population,5,Prevalence,47,Czechia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0337886028051308,0.0417260789202794,0.0281299209317415
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0312429988093168,0.038529566608409,0.0257412545443939
+1,All Population,5,Prevalence,102,United States of America,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0453901871340353,0.0513982072407462,0.0403105642873272
+1,All Population,5,Prevalence,55,Slovenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0290714233704484,0.0336531954929334,0.0250593527703024
+1,All Population,5,Prevalence,177,Djibouti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0301710011555194,0.0353090590967757,0.0254524923305533
+1,All Population,5,Prevalence,76,Belgium,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0393764323107354,0.0462738250502315,0.0339699454034318
+1,All Population,5,Prevalence,89,Netherlands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.056717688327853,0.0635888273072512,0.0511129661617151
+1,All Population,5,Prevalence,136,Paraguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0288459728601384,0.0351075899017304,0.0237784340538256
+1,All Population,5,Prevalence,147,Libya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0425283331862044,0.0487788703610082,0.0366042352607718
+1,All Population,5,Prevalence,67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0300622881786504,0.036606952606038,0.0252842628583029
+1,All Population,5,Prevalence,28,Solomon Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0238113980540279,0.0325506395667539,0.017235856375562
+1,All Population,5,Prevalence,23,Kiribati,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0270766470690028,0.0373246646621001,0.0195087835558376
+1,All Population,5,Prevalence,123,Peru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0288820276048726,0.0321607421998171,0.025977933638726
+1,All Population,5,Prevalence,157,Yemen,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0330050664251014,0.0378138837593022,0.0281545518630703
+1,All Population,5,Prevalence,435,South Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.02746805096091,0.0323792969694101,0.0230298331690238
+1,All Population,5,Prevalence,10,Cambodia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0232935447392984,0.0274013249612867,0.0193074758485222
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0325978795402945,0.0394929879640477,0.0273171856869051
+1,All Population,5,Prevalence,7,Democratic People's Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0346176507944818,0.0431152751689962,0.0282229832282282
+1,All Population,5,Prevalence,63,Ukraine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0540964344972576,0.0662636187489153,0.0452879105828012
+1,All Population,5,Prevalence,16,Philippines,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0220880553434484,0.0266116647159574,0.0184486635460815
+1,All Population,5,Prevalence,53,Serbia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.028369285425223,0.033707099367588,0.0240912400780582
+1,All Population,5,Prevalence,72,New Zealand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0344061134573984,0.0381005253651523,0.0308064376959864
+1,All Population,5,Prevalence,91,Portugal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.041165258661672,0.0462995884751278,0.036917310132698
+1,All Population,5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0382735862133056,0.0459140281543848,0.0315787335235808
+1,All Population,5,Prevalence,24,Marshall Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0233658022310132,0.0318921715788351,0.0170818772304948
+1,All Population,5,Prevalence,39,Tajikistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0264601302535643,0.033060361245728,0.0212948268340867
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0342947030574112,0.0416305275118872,0.0286082336415198
+1,All Population,5,Prevalence,78,Denmark,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0349123844213567,0.0396935229592348,0.0309135021964399
+1,All Population,5,Prevalence,20,Viet Nam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0235413208333429,0.0284475985330234,0.0194770306691168
+1,All Population,5,Prevalence,129,Honduras,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0247473259249567,0.0303211552169415,0.0202586735550846
+1,All Population,5,Prevalence,93,Sweden,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0435117317566765,0.0482697831767764,0.0394508726678942
+1,All Population,5,Prevalence,15,Myanmar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0251695938994283,0.0296629630105232,0.0209520085321942
+1,All Population,5,Prevalence,33,Armenia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0361775198012179,0.0448414420198279,0.0295190548061286
+1,All Population,5,Prevalence,48,Hungary,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0329803482469177,0.0379652309823668,0.0288556310343133
+1,All Population,5,Prevalence,152,Saudi Arabia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0385461067398958,0.0466262693666048,0.0317136741471007
+1,All Population,5,Prevalence,111,Dominican Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0366309658801391,0.0451558035869458,0.0301366734980141
+1,All Population,5,Prevalence,169,Central African Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0375266244705767,0.0493529124229035,0.0280469113550594
+1,All Population,5,Prevalence,139,Algeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0406912303639901,0.0466221154173495,0.0350003855329901
+1,All Population,5,Prevalence,34,Azerbaijan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0331870853417807,0.0412662594808083,0.027037829896536
+1,All Population,5,Prevalence,50,Montenegro,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0254077763341713,0.0293481440482381,0.0220478946705041
+1,All Population,5,Prevalence,215,Sao Tome and Principe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0239331122997376,0.0278956481906872,0.0203737299312613
+1,All Population,5,Prevalence,126,Costa Rica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0304580073257432,0.0375828110215829,0.02527473627818
+1,All Population,5,Prevalence,193,Botswana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0287231523258957,0.034516638665161,0.0239055943894015
+1,All Population,5,Prevalence,206,Gambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0226840238691011,0.0264410283813082,0.0192067008183085
+1,All Population,5,Prevalence,46,Croatia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0259417219452982,0.0301376470962501,0.0223112403653694
+1,All Population,5,Prevalence,195,Namibia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0252454710689009,0.0304324825771606,0.0207948143816855
+1,All Population,5,Prevalence,151,Qatar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0338062877231531,0.0388632310552401,0.0289527903371403
+1,All Population,5,Prevalence,183,Mauritius,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0425840534395447,0.0546078231865946,0.0342687668879821
+1,All Population,5,Prevalence,162,Bhutan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0306293831924416,0.0369311986842726,0.0260233387995071
+1,All Population,5,Prevalence,11,Indonesia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0210848438619236,0.0266839845803614,0.0172464345688144
+1,All Population,5,Prevalence,71,Australia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0438359816896054,0.049371154414172,0.0389803330877077
+1,All Population,5,Prevalence,105,Antigua and Barbuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0343646135006412,0.0415583887320661,0.0287941851046628
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.037955048628878,0.0496667096419694,0.0283387904140843
+1,All Population,5,Prevalence,148,Morocco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0403071267564342,0.0463076665689457,0.0346729096997458
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0326111255574239,0.0385147645557437,0.027989498911055
+1,All Population,5,Prevalence,45,Bulgaria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0310462865148252,0.0358949838455275,0.0267587170861846
+1,All Population,5,Prevalence,122,Ecuador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.029227961507978,0.0369862426294821,0.0236056459303363
+1,All Population,5,Prevalence,116,Saint Lucia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0344165641371909,0.041629367828111,0.0288830808102402
+1,All Population,5,Prevalence,79,Finland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.031501336170131,0.0354444087414762,0.0279909054736347
+1,All Population,5,Prevalence,94,Switzerland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0504365508772017,0.0571008244926066,0.0451990166751134
+1,All Population,5,Prevalence,109,Cuba,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0355511698562591,0.043038584139702,0.0298803472974209
+1,All Population,5,Prevalence,37,Kyrgyzstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0283490064221511,0.0353175324879648,0.0229674705086175
+1,All Population,5,Prevalence,78,Denmark,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0352052790128049,0.0401182416394336,0.0310575825300984
+1,All Population,5,Prevalence,97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0333223317918942,0.0437296352818391,0.0260155422045647
+1,All Population,5,Prevalence,110,Dominica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0331525320346078,0.040214574861086,0.0277647803682271
+1,All Population,5,Prevalence,29,Tonga,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0280520599587183,0.0434601887787107,0.0174187059084431
+1,All Population,5,Prevalence,179,Ethiopia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0354571414838501,0.0414746543250388,0.0299180808951872
+1,All Population,5,Prevalence,210,Liberia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0258915208673078,0.030163300798929,0.0217523691742175
+1,All Population,5,Prevalence,113,Guyana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0307283164295858,0.0374606613986907,0.0254507186150376
+1,All Population,5,Prevalence,349,Greenland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0443353796946121,0.0543940213810378,0.0368879688515112
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0367347217100971,0.0431729597555835,0.0316218878648113
+1,All Population,5,Prevalence,175,Burundi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0263697617732478,0.0311140954365821,0.0220327173270887
+1,All Population,5,Prevalence,66,Brunei Darussalam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0263691592893512,0.0314644799755333,0.021976476830488
+1,All Population,5,Prevalence,205,Côte d'Ivoire,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0251654254934291,0.0303629848259732,0.0205414835758338
+1,All Population,5,Prevalence,186,Seychelles,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0259809942073198,0.030883470731294,0.0218138380852402
+1,All Population,5,Prevalence,53,Serbia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0274953440472263,0.0326525453678336,0.0232160926647267
+1,All Population,5,Prevalence,156,United Arab Emirates,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0428216735573018,0.0526654111723664,0.0350760582800285
+1,All Population,5,Prevalence,19,Timor-Leste,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0210190245022006,0.0265674588257331,0.0164142437665109
+1,All Population,5,Prevalence,160,Afghanistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0323141868164637,0.0371534616040693,0.0276263912353179
+1,All Population,5,Prevalence,202,Cameroon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0252303250666286,0.0293731518737475,0.0212368350420707
+1,All Population,5,Prevalence,46,Croatia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0259197103387958,0.0301282517129874,0.0222843527273143
+1,All Population,5,Prevalence,385,Puerto Rico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.039595429954062,0.0449508048480933,0.0350967525296741
+1,All Population,5,Prevalence,369,Nauru,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0228190114399021,0.031312419781304,0.0165807075701242
+1,All Population,5,Prevalence,298,American Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0259587058793411,0.0353015465545741,0.0192358241123138
+1,All Population,5,Prevalence,206,Gambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0248589819364191,0.0288832570301389,0.0209354432784329
+1,All Population,5,Prevalence,194,Lesotho,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.02718232455733,0.0327945711040779,0.0224139930293793
+1,All Population,5,Prevalence,101,Canada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0362774817402793,0.0405725820888507,0.0326398690630593
+1,All Population,5,Prevalence,178,Eritrea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.029188092549968,0.0341963067047053,0.0246310548076259
+1,All Population,5,Prevalence,92,Spain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.0360273929867963,0.0401410922867574,0.0327048459670888
+1,All Population,5,Prevalence,86,Italy,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.025506298791551,0.0286226604887677,0.0227990556783279
+1,All Population,5,Prevalence,200,Benin,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0232020013569922,0.0270262581180053,0.0195616170139213
+1,All Population,5,Prevalence,374,Niue,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0290595254151553,0.0394978496991726,0.0217258944664517
+1,All Population,5,Prevalence,211,Mali,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0220803692180408,0.0264220330171822,0.0180980239109559
+1,All Population,5,Prevalence,57,Belarus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0355532701793874,0.0423381355059233,0.0299872443735286
+1,All Population,5,Prevalence,107,Barbados,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0356638769009113,0.0432857551958733,0.0299334109505421
+1,All Population,5,Prevalence,40,Turkmenistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0289453876140109,0.0360670086907319,0.0235119245147652
+1,All Population,5,Prevalence,36,Kazakhstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.026356034232344,0.0319938902018145,0.021763824887069
+1,All Population,5,Prevalence,144,Jordan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0388712771903747,0.0465745667615032,0.0321969675461163
+1,All Population,5,Prevalence,413,Tokelau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0265880212215833,0.0361825687935333,0.0197724923674131
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0339803082694268,0.0469265681248754,0.0251547925272072
+1,All Population,5,Prevalence,112,Grenada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0329637401621581,0.0400409148961222,0.0275002677605484
+1,All Population,5,Prevalence,413,Tokelau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0269254685217749,0.036660909552182,0.0201039495926236
+1,All Population,5,Prevalence,131,Nicaragua,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0230931236485591,0.0284359012542904,0.0190997989768616
+1,All Population,5,Prevalence,60,Lithuania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0413187678477295,0.0526411350534051,0.0332423274404759
+1,All Population,5,Prevalence,75,Austria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0274151431321984,0.0313216487570077,0.0242040280851126
+1,All Population,5,Prevalence,149,Palestine,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0361115892700668,0.0411686297492197,0.0309554050056073
+1,All Population,5,Prevalence,422,United States Virgin Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.031327995784476,0.037486831807547,0.0268217774595939
+1,All Population,5,Prevalence,8,Taiwan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.028840640650741,0.0340886556473956,0.0240331793760466
+1,All Population,5,Prevalence,157,Yemen,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0336146152443979,0.0384606991256667,0.028633967677566
+1,All Population,5,Prevalence,52,Romania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0236533915024431,0.0274111069381836,0.0204397443343265
+1,All Population,5,Prevalence,170,Congo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0436037819588315,0.054737004016206,0.0344452068001616
+1,All Population,5,Prevalence,27,Samoa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.022697305694381,0.0307010452120504,0.0168346607205236
+1,All Population,5,Prevalence,125,Colombia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0214290208868373,0.0258695295552953,0.0179008980978573
+1,All Population,5,Prevalence,140,Bahrain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0418065171666071,0.0484035045386236,0.0355998832492933
+1,All Population,5,Prevalence,97,Argentina,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0344709052565263,0.0450219652568179,0.0267797721746478
+1,All Population,5,Prevalence,84,Ireland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0363393605388225,0.0407265694555494,0.0325181187171628
+1,All Population,5,Prevalence,106,Bahamas,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0334131314813525,0.0404847239745599,0.0279761762832725
+1,All Population,5,Prevalence,183,Mauritius,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0420441429817231,0.0540728422936023,0.0335879739024199
+1,All Population,5,Prevalence,213,Niger,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0216963479927169,0.0252210175244939,0.0182648777890096
+1,All Population,5,Prevalence,85,Israel,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0440127653369765,0.0517571823375179,0.0373895560612813
+1,All Population,5,Prevalence,216,Senegal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0251485166832761,0.0301561809402156,0.0206804363127632
+1,All Population,5,Prevalence,119,Trinidad and Tobago,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0342895288016493,0.0413576106961183,0.028723554684036
+1,All Population,5,Prevalence,376,Northern Mariana Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0289874942275382,0.0397489229289514,0.021584671272641
+1,All Population,5,Prevalence,154,Tunisia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0504269240040867,0.0605333307139101,0.0424745535256097
+1,All Population,5,Prevalence,88,Malta,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0269103056958407,0.0311042291827046,0.023395591009039
+1,All Population,5,Prevalence,23,Kiribati,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0274061099951779,0.0379862295771417,0.019762715197367
+1,All Population,5,Prevalence,26,Papua New Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0216434076541514,0.0296054843485612,0.0158324650088478
+1,All Population,5,Prevalence,144,Jordan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0385752270928829,0.0465155334599872,0.0320349928287979
+1,All Population,5,Prevalence,91,Portugal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0414317746875392,0.0466752951466913,0.0371284547058375
+1,All Population,5,Prevalence,132,Panama,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0237881775601229,0.0290388792031229,0.0198484971891323
+1,All Population,5,Prevalence,12,Lao People's Democratic Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0215045104412004,0.027478226356055,0.0168559732928476
+1,All Population,5,Prevalence,41,Uzbekistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0300743012745471,0.0374625317043375,0.0243352213126365
+1,All Population,5,Prevalence,13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0353977527153569,0.040572417436882,0.0301764378069532
+1,All Population,5,Prevalence,77,Cyprus,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0296901189961101,0.0348875260651173,0.0257175848046673
+1,All Population,5,Prevalence,208,Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0235509791672511,0.0273293450921236,0.0199220018984498
+1,All Population,5,Prevalence,38,Mongolia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0269986312023979,0.0332560620418953,0.0220631470368495
+1,All Population,5,Prevalence,141,Egypt,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0383928791803878,0.0459586448023091,0.0320677004951481
+1,All Population,5,Prevalence,62,Russian Federation,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0403135851289804,0.0470528851081993,0.0350214681203255
+1,All Population,5,Prevalence,128,Guatemala,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0279623577527933,0.0343315440635874,0.0229117641540778
+1,All Population,5,Prevalence,49,North Macedonia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0256474184461302,0.0296668923724752,0.0222605287864036
+1,All Population,5,Prevalence,185,Rwanda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0276784873507752,0.0323916408535301,0.0233850378312791
+1,All Population,5,Prevalence,161,Bangladesh,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0416879093035148,0.0517129252360483,0.0335915275059904
+1,All Population,5,Prevalence,67,Japan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0305943618510979,0.0371548792876723,0.0257023220020254
+1,All Population,5,Prevalence,212,Mauritania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0229278476115668,0.0274308686764397,0.0190495107062639
+1,All Population,5,Prevalence,74,Andorra,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0385807144172748,0.043531417609967,0.0347215584145203
+1,All Population,5,Prevalence,59,Latvia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0345918903192775,0.0396489063451821,0.030693023969758
+1,All Population,5,Prevalence,385,Puerto Rico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0404493755428626,0.0461778036995157,0.0358393436978327
+1,All Population,5,Prevalence,396,San Marino,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0392364084035982,0.0439924984416697,0.0356028773836885
+1,All Population,5,Prevalence,118,Suriname,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.031963353233247,0.0387517127403466,0.0267341480154009
+1,All Population,5,Prevalence,154,Tunisia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.050422648260357,0.0605600194196352,0.0423884751089649
+1,All Population,5,Prevalence,165,Pakistan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0350064666641705,0.0413211537047444,0.0296658417712663
+1,All Population,5,Prevalence,173,Gabon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0378395594117198,0.0495000081060674,0.0286491745313842
+1,All Population,5,Prevalence,150,Oman,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0304836405782459,0.0372111105114914,0.0247673550888573
+1,All Population,5,Prevalence,181,Madagascar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0271103531392902,0.0317781340774238,0.0227378114322268
+1,All Population,5,Prevalence,164,Nepal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0282679607851501,0.0319104382459128,0.0247912886990526
+1,All Population,5,Prevalence,197,Eswatini,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0297490490536228,0.0367268602782397,0.0239185472568875
+1,All Population,5,Prevalence,151,Qatar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0339664109052358,0.0391633396416515,0.0288651003377035
+1,All Population,5,Prevalence,98,Chile,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0402563473347237,0.0548475072817421,0.0296961399972539
+1,All Population,5,Prevalence,113,Guyana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0308890561268096,0.0376538702069639,0.025755254520195
+1,All Population,5,Prevalence,81,Germany,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0437430748624858,0.0476851220271433,0.0400583575148571
+1,All Population,5,Prevalence,68,Republic of Korea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0276653311455177,0.0306634987508922,0.025194633320292
+1,All Population,5,Prevalence,115,Jamaica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0325751974471133,0.0396040020422254,0.0271231471909513
+1,All Population,5,Prevalence,396,San Marino,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0396537538658396,0.0445069815659175,0.0359550464622606
+1,All Population,5,Prevalence,18,Thailand,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0240875856707316,0.0296741165465395,0.0195748341858834
+1,All Population,5,Prevalence,205,Côte d'Ivoire,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0255132738913295,0.0306317147174208,0.0208159274209752
+1,All Population,5,Prevalence,305,Bermuda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0371247910138663,0.0450532872866923,0.0313113283055963
+1,All Population,5,Prevalence,204,Chad,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.029385345903069,0.0354234780035407,0.0238241697759799
+1,All Population,5,Prevalence,189,United Republic of Tanzania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.027367162885341,0.0321207953150028,0.0229732673110041
+1,All Population,5,Prevalence,320,Cook Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0290739070415619,0.039719150897492,0.0217461834732994
+1,All Population,5,Prevalence,215,Sao Tome and Principe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0242617860418082,0.0282444357226674,0.0206002258719563
+1,All Population,5,Prevalence,90,Norway,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0315506146955255,0.0357076682613102,0.0281071804474398
+1,All Population,5,Prevalence,208,Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0242620123522222,0.0282435553670439,0.0204575211405555
+1,All Population,5,Prevalence,180,Kenya,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0278623979666296,0.0331489405466609,0.0234300139771467
+1,All Population,5,Prevalence,52,Romania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0240321682048721,0.0278433987327574,0.0207912297246578
+1,All Population,5,Prevalence,35,Georgia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0404182907315534,0.0480944995718223,0.0340532525505754
+1,All Population,5,Prevalence,203,Cabo Verde,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0287904344367405,0.0337074825722312,0.0246879793275248
+1,All Population,5,Prevalence,196,South Africa,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0317644022551477,0.0376117276200477,0.0270723873829934
+1,All Population,5,Prevalence,135,Brazil,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0358956364043399,0.040884699142253,0.0315035904901583
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.024166295911784,0.0295787468391579,0.0200645616947269
+1,All Population,5,Prevalence,14,Maldives,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.025282569743167,0.0299964213785048,0.0210693884360792
+1,All Population,5,Prevalence,87,Luxembourg,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0431675576532406,0.0488030785072925,0.0383204983837682
+1,All Population,5,Prevalence,61,Republic of Moldova,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0339306049035625,0.0404346425051797,0.0286079586467048
+1,All Population,5,Prevalence,214,Nigeria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0283930206260392,0.0338105731587861,0.0237634143116413
+1,All Population,5,Prevalence,143,Iraq,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0344824250105542,0.0405244192677515,0.0289274550498555
+1,All Population,5,Prevalence,51,Poland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0288188401194789,0.0326832510641742,0.0255811217014703
+1,All Population,5,Prevalence,175,Burundi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0265012247720809,0.0311137980715504,0.0221262154988765
+1,All Population,5,Prevalence,130,Mexico,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0280780277134898,0.0329276148223708,0.0242270401602802
+1,All Population,5,Prevalence,95,United Kingdom,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0563174731331261,0.0601826137680445,0.0523925255425523
+1,All Population,5,Prevalence,80,France,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0378594205382884,0.0420683138016592,0.0341865673120244
+1,All Population,5,Prevalence,218,Togo,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0309962586831645,0.0401600825055486,0.0240861773437946
+1,All Population,5,Prevalence,107,Barbados,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0358845766402209,0.0433874932878163,0.0300691877285922
+1,All Population,5,Prevalence,380,Palau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0300162218997914,0.0411911673412584,0.0224426535023248
+1,All Population,5,Prevalence,28,Solomon Islands,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0241641523017091,0.0331404600084405,0.0175163406297893
+1,All Population,5,Prevalence,92,Spain,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0384053933791388,0.0428730060872165,0.0347415878584929
+1,All Population,5,Prevalence,43,Albania,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0259824680988589,0.0300187519418372,0.022588636205925
+1,All Population,5,Prevalence,209,Guinea-Bissau,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0228551640912083,0.0267153187684579,0.0191754564563745
+1,All Population,5,Prevalence,435,South Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0276273104702834,0.0324555997026484,0.0231699124108976
+1,All Population,5,Prevalence,367,Monaco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0369204021864722,0.0414790451622347,0.0333161735330158
+1,All Population,5,Prevalence,146,Lebanon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0474977562191759,0.0542770577382004,0.0409561794823953
+1,All Population,5,Prevalence,201,Burkina Faso,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.026536857487252,0.0305020352459065,0.0223818711027347
+1,All Population,5,Prevalence,367,Monaco,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0364847105890824,0.0408567446810207,0.0328752463101363
+1,All Population,5,Prevalence,168,Angola,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0350974796809481,0.0458971494069713,0.0263433489854009
+1,All Population,5,Prevalence,99,Uruguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0330215424379601,0.0426734785566728,0.0260331945121993
+1,All Population,5,Prevalence,169,Central African Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0374673484478685,0.0490733246732523,0.0281000918576713
+1,All Population,5,Prevalence,15,Myanmar,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0256484579222298,0.0303019764554768,0.0212861327711764
+1,All Population,5,Prevalence,153,Syrian Arab Republic,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0639666619981918,0.0807438514017292,0.0501390355469194
+1,All Population,5,Prevalence,182,Malawi,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0268683215153728,0.0323724761251692,0.0218928926705909
+1,All Population,5,Prevalence,207,Ghana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0356190756816162,0.0429784570343601,0.0293503647681472
+1,All Population,5,Prevalence,122,Ecuador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0277125867794611,0.0349654497322687,0.02253182993269
+1,All Population,5,Prevalence,83,Iceland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0455606364288247,0.0511506778983394,0.0404538137146205
+1,All Population,5,Prevalence,115,Jamaica,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.03277910649158,0.039792863012867,0.0274284112537463
+1,All Population,5,Prevalence,217,Sierra Leone,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0241757121954267,0.0282433058491325,0.0203592335405813
+1,All Population,5,Prevalence,191,Zambia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0250968446835163,0.0300978095909551,0.0205140616116782
+1,All Population,5,Prevalence,216,Senegal,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0253026391725451,0.0303086796701021,0.0207826542191685
+1,All Population,5,Prevalence,351,Guam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0286941622022246,0.0393753497824691,0.0214132930487943
+1,All Population,5,Prevalence,112,Grenada,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0331329375368621,0.0401711468562472,0.027743019443887
+1,All Population,5,Prevalence,146,Lebanon,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0480240907725236,0.0551260687554681,0.0412905393212538
+1,All Population,5,Prevalence,161,Bangladesh,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0420299257246689,0.0521779085817945,0.0340853108418685
+1,All Population,5,Prevalence,54,Slovakia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0274056614335766,0.033005742618588,0.0229720689922749
+1,All Population,5,Prevalence,198,Zimbabwe,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0267950374286413,0.0337302040363607,0.0212657036399303
+1,All Population,5,Prevalence,45,Bulgaria,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0311629190905602,0.0361004253728759,0.0269251932847936
+1,All Population,5,Prevalence,145,Kuwait,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0405331175418167,0.0469827535275673,0.0344348787282846
+1,All Population,5,Prevalence,177,Djibouti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0294288521128724,0.0348864945485613,0.0250045104689329
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0344932653179934,0.0416634747050913,0.0288852436472949
+1,All Population,5,Prevalence,193,Botswana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0276234126766544,0.0332861580124159,0.0229727858373609
+1,All Population,5,Prevalence,127,El Salvador,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0236789775318253,0.028954911203996,0.01968873036334
+1,All Population,5,Prevalence,114,Haiti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0350113602762165,0.0426697928015475,0.0287427274782873
+1,All Population,5,Prevalence,522,Sudan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0391866866391974,0.0461385684583726,0.0327599919743255
+1,All Population,5,Prevalence,142,Iran (Islamic Republic of),3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0369321546277541,0.043433810310885,0.0317322671343943
+1,All Population,5,Prevalence,99,Uruguay,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.0345601305279743,0.0444867677236554,0.0272643456518283
+1,All Population,5,Prevalence,172,Equatorial Guinea,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0345971846179902,0.0454356926790019,0.0257453702369728
+1,All Population,5,Prevalence,184,Mozambique,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0237801829389615,0.0278168996242488,0.0199981381459651
+1,All Population,5,Prevalence,30,Vanuatu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0239788512290334,0.0326668184560318,0.0173693723390554
+1,All Population,5,Prevalence,207,Ghana,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0360068328850179,0.0431318157421272,0.0296003939631965
+1,All Population,5,Prevalence,349,Greenland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0444375611044581,0.0543370883308099,0.0370063236423817
+1,All Population,5,Prevalence,54,Slovakia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0274624511860616,0.0330808171724128,0.0230667784184889
+1,All Population,5,Prevalence,187,Somalia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0262557856104878,0.0308236667462399,0.0220085305981626
+1,All Population,5,Prevalence,69,Singapore,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0179128103126186,0.0214003405082137,0.01529334777661
+1,All Population,5,Prevalence,20,Viet Nam,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0236231354658529,0.0287552997128191,0.0194613256075189
+1,All Population,5,Prevalence,82,Greece,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0466867641800691,0.0534819988908235,0.0409832675810531
+1,All Population,5,Prevalence,37,Kyrgyzstan,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0284039990993708,0.0354216323696648,0.0230254518697451
+1,All Population,5,Prevalence,108,Belize,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0292531668177002,0.0356030128089281,0.0242814835245914
+1,All Population,5,Prevalence,416,Tuvalu,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0254639507177017,0.0347132458149723,0.0189453683578972
+1,All Population,5,Prevalence,114,Haiti,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0333036614337114,0.0408696997386802,0.0273367777957288
+1,All Population,5,Prevalence,129,Honduras,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0250866091746751,0.0309127086271965,0.0205667262878063
+1,All Population,5,Prevalence,155,Türkiye,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0464738809906296,0.0525110419272509,0.0411082794305308
+1,All Population,5,Prevalence,190,Uganda,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0229158514285644,0.0267116994342559,0.0193455737462255
+1,All Population,5,Prevalence,176,Comoros,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0338605005791002,0.0418509281956282,0.0273511919067785
+1,All Population,5,Prevalence,84,Ireland,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0348692528106699,0.0390084796465089,0.0311398209641392
+1,All Population,5,Prevalence,22,Fiji,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0237289715239939,0.0326591789614789,0.0174694715718606
+1,All Population,5,Prevalence,131,Nicaragua,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.0232615737201616,0.0286180391180723,0.0191959649214773
